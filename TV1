@@ -1,532 +1,401 @@
-#EXTM3U
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/LA1.es.png",ahlakid.com - |.ES.| LA 1
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59701.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/LA1.es.png",ahlakid.com - |.ES.| LA 1 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59717.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/LA2.es.png",ahlakid.com - |.ES.| LA 2
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59702.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Antena3.es.png",ahlakid.com - |.ES.| ANTENA 3
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59704.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Antena3.es.png",ahlakid.com - |.ES.| ANTENA 3 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59705.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Cuatro.es.png",ahlakid.com - |.ES.| CUATRO
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59707.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Cuatro.es.png",ahlakid.com - |.ES.| CUATRO FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59708.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Telecinco.es.png",ahlakid.com - |.ES.| TELECINCO FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59711.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/LaSexta.es.png",ahlakid.com - |.ES.| LASEXTA
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59713.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png",ahlakid.com - |.ES.D.| M LA LIGA FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59794.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/MLaLiga.es.png",ahlakid.com - |.ES.D.| M LA LIGA 1
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59795.ts
-#EXTINF:-1 group-title="ESPANA",ahlakid.com - |.ES.| GOL TV
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/67586.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/MovistarDeportes.es.png",ahlakid.com - |.ES.D.| M DEPORTES HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66016.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",ahlakid.com - |.ES.D.| M LCAMPEONES 2 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66009.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/DAZN.de.png",ahlakid.com - |.ES.D.| DAZN 1 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66053.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/800px-7TVRM.svg.png",ahlakid.com - |.ES.| 7 MURCIA
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/65829.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/CanalAndalucia.es.png",ahlakid.com - |.ES.| CANAL SUR A
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59715.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/BeMad.es.png",ahlakid.com - |.ES.| BE MAD HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/65845.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://lanzarotebusinessassociation.com/wp-content/uploads/2017/07/Lancelot-TV.png",ahlakid.com - |.ES.| LANCELOT TV
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/65894.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Boing.fr.png",ahlakid.com - |.ES.| BOING
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/65967.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Divinity.es.png",ahlakid.com - |.ES.| DIVINITY
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59726.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/pu_320px-AMC_logo_2016.png",ahlakid.com - |.ES.| AMC
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59727.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/pu_320px-AMC_logo_2016.png",ahlakid.com - |.ES.| AMC FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59728.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Fox.es.png",ahlakid.com - |.ES.| FOX
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59733.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Fox.es.png",ahlakid.com - |.ES.| FOX HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59734.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/MovistarEstrenos.es.png",ahlakid.com - |.ES.| M.ESTRENOS FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59748.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/BeMad.es.png",ahlakid.com - |.ES.| BE MAD FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59749.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Blaze.es.png",ahlakid.com - |.ES.| BLAZE
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59750.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEHqsXPySedSqef7k-yeZnbmnI9tTgx81nb_c76kFwBreslkUL7waxO7cF&s",ahlakid.com - |.ES.| CLASSICA HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59752.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/MovistarDrama.es.png",ahlakid.com - |.ES.| M DRAMA HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59765.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/MovistarComedia.es.png",ahlakid.com - |.ES.| M COMEDIA HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59770.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/ClanTVE.es.png",ahlakid.com - |.ES.| CLAN TV
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59841.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Panda.pt.png",ahlakid.com - |.ES.| CANAL PANDA HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59843.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Nickelodeon.de.png",ahlakid.com - |.ES.| NICKELODEON
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59844.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/640px-Movistar_Estrenos.svg.png",ahlakid.com - |SP-M+| M+ ESTRENOS FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139148.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://1000logos.net/wp-content/uploads/2021/03/Antena-3-Logo.png",ahlakid.com - |SP-M+| Antena 3 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139150.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png",ahlakid.com - |SP-M+| M SERIES HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139162.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png",ahlakid.com - |SP-M+| M SERIES FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139163.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png",ahlakid.com - |SP-M+| M SERIES 2 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139164.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png",ahlakid.com - |SP-M+| M SERIES 2 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139165.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://www.freepnglogos.com/uploads/fox-logotype-black-text-png-0.png",ahlakid.com - |SP-M+| FOX HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139166.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://www.freepnglogos.com/uploads/fox-logotype-black-text-png-0.png",ahlakid.com - |SP-M+| FOX FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139167.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",ahlakid.com - |SP-M+| AXN FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139168.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png",ahlakid.com - |SP-M+| TNT HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139170.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png",ahlakid.com - |SP-M+| M+ COMEDIA FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139172.ts
-#EXTINF:-1 group-title="ESPANA",ahlakid.com - |SP-M+| CALLE 13 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139174.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/640px-Movistar_Estrenos.svg.png",ahlakid.com - |SP-M+| M+ ESTRENOS 2 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139184.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/640px-Movistar_Estrenos.svg.png",ahlakid.com - |SP-M+|M+ ESTRENOS FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139185.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png",ahlakid.com - |SP-M+| TV3 CAT HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139208.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="data:image/png;base64, ahlakid.com - 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",ahlakid.com - |SP-M+| HORSE TV HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139209.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Toros-movistar.png/1200px-Toros-movistar.png",ahlakid.com - |SP-M+| TOROS HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139210.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Toros-movistar.png/1200px-Toros-movistar.png",ahlakid.com - |SP-M+| TOROS FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139211.ts
-#EXTINF:-1 group-title="ESPANA",ahlakid.com - |SP-M+| TELEDEPORTE FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139213.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg/revision/latest?cb=20140112185342",ahlakid.com - |SP-M+| SOL Musica
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139214.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Odisea_old.png/revision/latest?cb=20140325131445",ahlakid.com - |SP-M+| ODIS HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139215.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NOVATV-bg_logo.png",ahlakid.com - |SP-M+| NOVA
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139216.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",ahlakid.com - |SP-M+| DISNEY CHANNEL FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139218.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/2560px-Mezzo_Logo.svg.png",ahlakid.com - |SP-M+| MEZZO
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139230.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png",ahlakid.com - |SP-M+| MEZZO LIVE HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139231.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png",ahlakid.com - |SP-M+| M+ DEPORTES 5 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139243.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png",ahlakid.com - |SP-M+| DAZN LALIGA 1 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139268.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png",ahlakid.com - |SP-M+| DAZN LALIGA 2 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139269.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",ahlakid.com - |SP-M+| DAZN F1 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139271.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Movistar_Liga_de_Campeones.svg/revision/latest?cb=20180825173605",ahlakid.com - |SP-M+| M+ LIGA DE CAMPEONES 5
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139285.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Movistar_Liga_de_Campeones.svg/revision/latest?cb=20180825173605",ahlakid.com - |SP-M+| M+ LIGA DE CAMPEONES 2
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139288.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Movistar_Liga_de_Campeones.svg/revision/latest?cb=20180825173605",ahlakid.com - |SP-M+| M+ LIGA DE CAMPEONES 1
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139291.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Movistar_Liga_de_Campeones.svg/revision/latest?cb=20180825173605",ahlakid.com - |SP-M+| M+ LIGA DE CAMPEONES
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139294.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png",ahlakid.com - |SP-M+| M+ GOLF HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139297.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1280px-Movistar_Golf.svg.png",ahlakid.com - |SP-M+| M+ GOLF FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139298.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://seeklogo.com/images/G/Gol_tv-logo-44D99F0B55-seeklogo.com.png",ahlakid.com - |SP-M+| GOL HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139299.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png",ahlakid.com - |SP-M+| EUROSPORT 2 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139303.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/1200px-ETB_Basque_2022_logo.svg.png",ahlakid.com - |SP-M+| ETB BASQUE
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139307.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/92/13/9213f37d-340f-4761-bc3a-f67922d17616/unnamed.png__400x400_q85_subsampling-2.png",ahlakid.com - |SP+| IBERALIA
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139135.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://allflamenco.net/static/images/logo/all-flamenco-logo%402x.png",ahlakid.com - |SP+| ALL FLAMENCO FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139140.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEDugiP7OlwiIhatISs1nrwt78bcpNEzzmaAElJ3-kJsanHfafmjBnTfpV&s",ahlakid.com - |.ES.| ANTENA 3 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59706.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.es.png",ahlakid.com - |.ES.| DISNEY CHANNEL FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/143129.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDbuXApWyBjTN6-38bXVZEO-ATVQTv7otapsROygkrYzwJFOkiKq3VTnAY4w&s",ahlakid.com - |.ES.| TELECINCO HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59712.ts
-#EXTINF:-1 ,ahlakid.com - Es: LA 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71582
-#EXTINF:-1 ,ahlakid.com - Es: La 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71583
-#EXTINF:-1 ,ahlakid.com - Es: La 2 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71634
-#EXTINF:-1 ,ahlakid.com - Es: Antena 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/298486
-#EXTINF:-1 ,ahlakid.com - Es: Antena 3 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71584
-#EXTINF:-1 ,ahlakid.com - Es: Cuatro HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71585
-#EXTINF:-1 ,ahlakid.com - Es: Cuatro FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71595
-#EXTINF:-1 ,ahlakid.com - Es: Telecinco HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71586
-#EXTINF:-1 ,ahlakid.com - Es: Telecinco FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298487
-#EXTINF:-1 ,ahlakid.com - Es: LA Sexta
-http://new-pro.tv:8080/99622282/etbVXafU6f/298488
-#EXTINF:-1 ,ahlakid.com - Es: LA Sexta FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71587
-#EXTINF:-1 ,ahlakid.com - Es: Divinity
-http://new-pro.tv:8080/99622282/etbVXafU6f/71633
-#EXTINF:-1 ,ahlakid.com - Es: Ten
-http://new-pro.tv:8080/99622282/etbVXafU6f/298506
-#EXTINF:-1 ,ahlakid.com - Es: Be Mad HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71627
-#EXTINF:-1 ,ahlakid.com - Es: mega
-http://new-pro.tv:8080/99622282/etbVXafU6f/71619
-#EXTINF:-1 ,ahlakid.com - Es: Energy
-http://new-pro.tv:8080/99622282/etbVXafU6f/71620
-#EXTINF:-1 ,ahlakid.com - Es: FDF | Factoria De Ficcion HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71615
-#EXTINF:-1 ,ahlakid.com - Es: Neox
-http://new-pro.tv:8080/99622282/etbVXafU6f/71628
-#EXTINF:-1 ,ahlakid.com - Es: Neox HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298511
-#EXTINF:-1 ,ahlakid.com - Es: NOVA HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71629
-#EXTINF:-1 ,ahlakid.com - Es: Cosmo HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71601
-#EXTINF:-1 ,ahlakid.com - Es: Cosmo FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71612
-#EXTINF:-1 ,ahlakid.com - ES: Canal Sur A.
-http://new-pro.tv:8080/99622282/etbVXafU6f/178900
-#EXTINF:-1 ,ahlakid.com - Es: 24 Horas
-http://new-pro.tv:8080/99622282/etbVXafU6f/71581
-#EXTINF:-1 ,ahlakid.com - ES: Caracol
-http://new-pro.tv:8080/99622282/etbVXafU6f/178901
-#EXTINF:-1 ,ahlakid.com - Es: CNN en Español
-http://new-pro.tv:8080/99622282/etbVXafU6f/98104
-#EXTINF:-1 ,ahlakid.com - Es: Andalucia TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/298489
-#EXTINF:-1 ,ahlakid.com - Es: Paramount Channel
-http://new-pro.tv:8080/99622282/etbVXafU6f/71616
-#EXTINF:-1 ,ahlakid.com - Es: A3 Series HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71618
-#EXTINF:-1 ,ahlakid.com - Es: Dkiss
-http://new-pro.tv:8080/99622282/etbVXafU6f/71617
-#EXTINF:-1 ,ahlakid.com - Es: Fox FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298484
-#EXTINF:-1 ,ahlakid.com - Es: AXN HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71608
-#EXTINF:-1 ,ahlakid.com - Es: AXN White HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298500
-#EXTINF:-1 ,ahlakid.com - Es: AXN White FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71607
-#EXTINF:-1 ,ahlakid.com - Es: Calle 13 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71604
-#EXTINF:-1 ,ahlakid.com - ES: TV 3 CAT HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/390117
-#EXTINF:-1 ,ahlakid.com - Es: SyFy FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71611
-#EXTINF:-1 ,ahlakid.com - Es: AMC HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71609
-#EXTINF:-1 ,ahlakid.com - Es: TNT FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/97735
-#EXTINF:-1 ,ahlakid.com - Es: Comedy Central FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71613
-#EXTINF:-1 ,ahlakid.com - Es: Sundance TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/71599
-#EXTINF:-1 ,ahlakid.com - Es: Hollywood HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71597
-#EXTINF:-1 ,ahlakid.com - Es: TCM HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71598
-#EXTINF:-1 ,ahlakid.com - Es: Dmax
-http://new-pro.tv:8080/99622282/etbVXafU6f/71647
-#EXTINF:-1 ,#0 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298499
-#EXTINF:-1 ,ahlakid.com - Es: M+ Accion HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71591
-#EXTINF:-1 ,ahlakid.com - Es: M+ Comedia FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71593
-#EXTINF:-1 ,ahlakid.com - Es: M+ Cine N HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71594
-#EXTINF:-1 ,ahlakid.com - Es: M+ Series HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71602
-#EXTINF:-1 ,ahlakid.com - Es: M+ Series 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71603
-#EXTINF:-1 ,ahlakid.com - Es: M+ Estrenos FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71590
-#EXTINF:-1 ,ahlakid.com - Es: M+ Fest HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298540
-#EXTINF:-1 ,ahlakid.com - ES: Bom Cine
-http://new-pro.tv:8080/99622282/etbVXafU6f/298497
-#EXTINF:-1 ,ahlakid.com - Es: Taqaulla 1 Action
-http://new-pro.tv:8080/99622282/etbVXafU6f/71706
-#EXTINF:-1 ,ahlakid.com - Es:  Taqaulla 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/71707
-#EXTINF:-1 ,ahlakid.com - Es:  Taqaulla 4 Crimen
-http://new-pro.tv:8080/99622282/etbVXafU6f/71709
-#EXTINF:-1 ,ahlakid.com - Es:  Taqaulla 5 Terror
-http://new-pro.tv:8080/99622282/etbVXafU6f/71710
-#EXTINF:-1 ,ahlakid.com - Es:  Taqaulla 8 Romance
-http://new-pro.tv:8080/99622282/etbVXafU6f/71713
-#EXTINF:-1 ,ahlakid.com - Es: Taqaulla 9 Familia
-http://new-pro.tv:8080/99622282/etbVXafU6f/71714
-#EXTINF:-1 ,ahlakid.com - Es: Nat Geo HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71645
-#EXTINF:-1 ,ahlakid.com - Es: Nat Geo FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298535
-#EXTINF:-1 ,ahlakid.com - Es: Nat Geo Wild HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71646
-#EXTINF:-1 ,ahlakid.com - Es: Nat Geo Wild FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298536
-#EXTINF:-1 ,ahlakid.com - Es: Historia HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71642
-#EXTINF:-1 ,ahlakid.com - Es: Blaze
-http://new-pro.tv:8080/99622282/etbVXafU6f/71649
-#EXTINF:-1 ,ahlakid.com - Es: Crimen Investigacion
-http://new-pro.tv:8080/99622282/etbVXafU6f/71621
-#EXTINF:-1 ,ahlakid.com - Es: Canal Decasa HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71622
-#EXTINF:-1 ,ahlakid.com - Es: Canal Cocina
-http://new-pro.tv:8080/99622282/etbVXafU6f/71626
-#EXTINF:-1 ,ahlakid.com - Es: Iberalia HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/343807
-#EXTINF:-1 ,ahlakid.com - Es: Iberalia FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71652
-#EXTINF:-1 ,ahlakid.com - Es: Clan HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71636
-#EXTINF:-1 ,ahlakid.com - Es: Disney Channel HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71635
-#EXTINF:-1 ,ahlakid.com - Es: Disney Junior HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71630
-#EXTINF:-1 ,ahlakid.com - Es: Nick Jr
-http://new-pro.tv:8080/99622282/etbVXafU6f/71641
-#EXTINF:-1 ,ahlakid.com - Es: Boing
-http://new-pro.tv:8080/99622282/etbVXafU6f/71637
-#EXTINF:-1 ,ahlakid.com - Es: Baby TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/71639
-#EXTINF:-1 ,ahlakid.com - Es: Nickelodeon HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298492
-#EXTINF:-1 ,ahlakid.com - Es: Nickelodeon FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71640
-#EXTINF:-1 ,ahlakid.com - Es: Panda Kids
-http://new-pro.tv:8080/99622282/etbVXafU6f/97744
-#EXTINF:-1 ,ahlakid.com - Es: Teledeporte | TDP FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71703
-#EXTINF:-1 ,ahlakid.com - Es: Teledeporte HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298498
-#EXTINF:-1 ,ahlakid.com - Es: Gol TV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71689
-#EXTINF:-1 ,ahlakid.com - Es: EuroSport 1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71698
-#EXTINF:-1 ,ahlakid.com - Es: EuroSport 1 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298544
-#EXTINF:-1 ,ahlakid.com - Es: EuroSport 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71699
-#EXTINF:-1 ,#Vamos HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71662
-#EXTINF:-1 ,#VAMOS FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298513
-#EXTINF:-1 ,ahlakid.com - Es: M+ La Liga FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71660
-#EXTINF:-1 ,ahlakid.com - Es: M+ La Liga HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/178906
-#EXTINF:-1 ,ahlakid.com - Es: M+ La Liga 1 HD [ Live ]
-http://new-pro.tv:8080/99622282/etbVXafU6f/71665
-#EXTINF:-1 ,ahlakid.com - Es: M+ La Liga 2 HD  [ Live ]
-http://new-pro.tv:8080/99622282/etbVXafU6f/71667
-#EXTINF:-1 ,ahlakid.com - Es: M+ La Liga 3 HD [ Live ]
-http://new-pro.tv:8080/99622282/etbVXafU6f/71669
-#EXTINF:-1 ,ahlakid.com - Es: M+ La Liga 4 HD [ Live ]
-http://new-pro.tv:8080/99622282/etbVXafU6f/298524
-#EXTINF:-1 ,ahlakid.com - Es: SMART BANK
-http://new-pro.tv:8080/99622282/etbVXafU6f/363992
-#EXTINF:-1 ,ahlakid.com - Es: LigaSmartBank FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/363991
-#EXTINF:-1 ,ahlakid.com - Es: LigaSmartBank1 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/363993
-#EXTINF:-1 ,ahlakid.com - Es: DAZN LaLiga 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/363994
-#EXTINF:-1 ,ahlakid.com - Es: DAZN LaLiga
-http://new-pro.tv:8080/99622282/etbVXafU6f/363995
-#EXTINF:-1 ,ahlakid.com - ES: Dazn 1 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/97727
-#EXTINF:-1 ,ahlakid.com - ES: Dazn 2 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/97728
-#EXTINF:-1 ,ahlakid.com - ES: Dazn 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/178903
-#EXTINF:-1 ,ahlakid.com - ES: Dazn 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/178904
-#EXTINF:-1 ,ahlakid.com - Es: Dazn 3 ESP
-http://new-pro.tv:8080/99622282/etbVXafU6f/298516
-#EXTINF:-1 ,ahlakid.com - Es: Dazn 4 ESP
-http://new-pro.tv:8080/99622282/etbVXafU6f/298517
-#EXTINF:-1 ,ahlakid.com - Es: Dazn F1 FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298518
-#EXTINF:-1 ,ahlakid.com - Es: Dazn F1 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71701
-#EXTINF:-1 ,ahlakid.com - Es: Toros FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71704
-#EXTINF:-1 ,ahlakid.com - Es: Toros HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298534
-#EXTINF:-1 ,ahlakid.com - Es: Barca TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/71654
-#EXTINF:-1 ,ahlakid.com - Es: Real Madrid TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/97748
-#EXTINF:-1 ,ahlakid.com - Es: M+ Golf HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71686
-#EXTINF:-1 ,ahlakid.com - Es: M+ Golf FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/178899
-#EXTINF:-1 ,ahlakid.com - Es: M+ Deporte HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71687
-#EXTINF:-1 ,ahlakid.com - Es: M+ Deporte 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/71690
-#EXTINF:-1 ,ahlakid.com - Es: M+ Deporte 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/298525
-#EXTINF:-1 ,ahlakid.com - Es: M+ Deporte 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/298526
-#EXTINF:-1 ,ahlakid.com - Es: M+ Deporte 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/298531
-#EXTINF:-1 ,ahlakid.com - Es: M+ LCampeons HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298527
-#EXTINF:-1 ,ahlakid.com - Es: M+ LCampeons 1
-http://new-pro.tv:8080/99622282/etbVXafU6f/298528
-#EXTINF:-1 ,ahlakid.com - Es: M+ LCampeons 2
-http://new-pro.tv:8080/99622282/etbVXafU6f/71679
-#EXTINF:-1 ,ahlakid.com - Es: M+ LCampeons 3
-http://new-pro.tv:8080/99622282/etbVXafU6f/298529
-#EXTINF:-1 ,ahlakid.com - Es: M+ LCampeons 4
-http://new-pro.tv:8080/99622282/etbVXafU6f/298530
-#EXTINF:-1 ,ahlakid.com - Es: La Liga Bar TV HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71656
-#EXTINF:-1 ,ahlakid.com - Es: La Liga Bar 1 [Live Event ]
-http://new-pro.tv:8080/99622282/etbVXafU6f/298532
-#EXTINF:-1 ,ahlakid.com - Es: La Liga Bar 2 [Live Event ]
-http://new-pro.tv:8080/99622282/etbVXafU6f/178907
-#EXTINF:-1 ,ahlakid.com - Es: La Liga Bar 4 [Live Event ]
-http://new-pro.tv:8080/99622282/etbVXafU6f/298533
-#EXTINF:-1 ,ahlakid.com - Es: MTV Espana HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71614
-#EXTINF:-1 ,ahlakid.com - Es: Classica
-http://new-pro.tv:8080/99622282/etbVXafU6f/178902
-#EXTINF:-1 ,ahlakid.com - Es: Fox HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71605
-#EXTINF:-1 ,ahlakid.com - Es: Comedy Central HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298509
-#EXTINF:-1 ,ahlakid.com - Es: TCM FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298548
-#EXTINF:-1 ,ahlakid.com - Es: M+ Drama HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71592
-#EXTINF:-1 ,ahlakid.com - Es: M+ Estrenos 2 HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298538
-#EXTINF:-1 ,ahlakid.com - Es:  Taqaulla 7 Comedia
-http://new-pro.tv:8080/99622282/etbVXafU6f/71712
-#EXTINF:-1 ,ahlakid.com - Es: Discovery Channel HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71643
-#EXTINF:-1 ,ahlakid.com - Es: Odisea
-http://new-pro.tv:8080/99622282/etbVXafU6f/71644
-#EXTINF:-1 ,ahlakid.com - Es: Caza Y Pesca HD
-http://new-pro.tv:8080/99622282/etbVXafU6f/71651
-#EXTINF:-1 ,ahlakid.com - Es: Disney Channel FHD
-http://new-pro.tv:8080/99622282/etbVXafU6f/298504
-#EXTINF:-1 ,ahlakid.com - Es: Dazn 1 ESP
-http://new-pro.tv:8080/99622282/etbVXafU6f/298514
-#EXTINF:-1 ,ahlakid.com - Es: Dazn 2 ESP
-http://new-pro.tv:8080/99622282/etbVXafU6f/298515
-#EXTINF:-1 ,ahlakid.com - Es: Mezoo Live
-http://new-pro.tv:8080/99622282/etbVXafU6f/298541
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Eurosport1.es.png",ahlakid.com - |.ES.D.| EUROSPORT 2 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59810.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTFE5IVXl2DnfllbzhGLTmvX8EA_Hvv0C3cOaFfK7bOEQidI5SxtEYg&s",ahlakid.com - |.ES.D.| M LCAMPEONES 1 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59801.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png",ahlakid.com - |.ES.D.| MULTIDEPORTE
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/65977.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/MovistarDeportes.es.png",ahlakid.com - |.ES.D.| M DEPORTES 3
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66022.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",ahlakid.com - |.ES.D.| M LCAMPEONES 3 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66010.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/DAZN.de.png",ahlakid.com - |.ES.D.| DAZN 2 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66054.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/DAZN.de.png",ahlakid.com - |.ES.D.| DAZN 3
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66048.ts
-#EXTINF:-1 group-title="ESPANA",ahlakid.com - |.ES.| DARK
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66044.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeA-GI0EP0QTiaq71NbbrA-sccbT8dOOs1MuVUjpDjoqLuJzsI1KaBSMl&s",ahlakid.com - |.ES.| FDF
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59718.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png",ahlakid.com - |.ES.| 24 HORAS
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59716.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Calle13.es.png",ahlakid.com - |.ES.| CALLE 13 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59721.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://play-lh.googleusercontent.com/AOAE8wVwENI3XuXbVFLLm0tRVE78zzKHLtPZBlrzP_sgTJlJ0dVzaGrb830csqjB0zY=w600-h300-pc0xffffff-pd",ahlakid.com - |.ES.| ALCARRIA TV
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/65840.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/TCM.es.png",ahlakid.com - |.ES.| TCM FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59732.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/ComedyCentral.es.png",ahlakid.com - |.ES.| COMEDY CENTRAL FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59743.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/IberaliaTV.es.png",ahlakid.com - |.ES.| IBERALIA TV
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59756.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Cosmo.es.png",ahlakid.com - |.ES.| COSMO
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59775.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/SyFy.es.png",ahlakid.com - |.ES.| SYFY
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59778.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/AXN.es.png",ahlakid.com - |.ES.| AXN
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59781.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Hollywood.es.png",ahlakid.com - |.ES.| HOLLYWOOD FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59788.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Nickelodeon.de.png",ahlakid.com - |.ES.| NICKELODEON FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59846.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/pu_boing.png",ahlakid.com - |.ES.| BOING HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59854.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_772B_416_1_C00000_0_0_0.png",ahlakid.com - |.ES.| CAZA Y PESCA FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59862.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/NatGeoWild.es.png",ahlakid.com - |.ES.| NAT GEO WILD FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59867.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/1280px-AMC_Crime.svg.png",ahlakid.com - |SP-M+| AMC CRIME
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139152.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png",ahlakid.com - |SP-M+| XTRM FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139178.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png",ahlakid.com - |SP-M+| LA RESISTENCIA HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139181.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Canal_Hollywood.svg/1200px-Canal_Hollywood.svg.png",ahlakid.com - |SP-M+| HOLLYWOOD FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139200.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",ahlakid.com - |SP-M+| 24 HORAS HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139203.ts
-#EXTINF:-1 group-title="ESPANA",ahlakid.com - |SP-M+| CANAL DECASA HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139204.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png",ahlakid.com - |SP-M+| M DEPORTES 2 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139246.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png",ahlakid.com - |SP-M+| M+ DEPORTES 2 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139247.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png",ahlakid.com - |SP-M+| M+ DEPORTES 1  FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139248.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png",ahlakid.com - |SP-M+| M+ DEPORTES 1 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139249.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1",ahlakid.com - |SP-M+| M+ LALIGA 1
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139258.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1",ahlakid.com - |SP-M+| M+ LA LIGA TV BAR HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139262.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341",ahlakid.com - |SP-M+| DAZN 4 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139278.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/DAZN_4.svg/revision/latest/scale-to-width-down/250?cb=20220119162341",ahlakid.com - |SP-M+| DAZN 4 FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139279.ts
-#EXTINF:-1 group-title="ESPANA",ahlakid.com - |SP-M+| CLAN TVE FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139314.ts
-#EXTINF:-1 group-title="ESPANA",ahlakid.com - |SP-M+| CANAL EXTREMADURA SAT
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139316.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Odisea_old.png/revision/latest?cb=20140325131445",ahlakid.com - |SP+| ODISEA HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/139132.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png",ahlakid.com - |.ES.| 24 HORAS FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/65834.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Calle13.es.png",ahlakid.com - |.ES.| CALLE 13 HD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/143083.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="data:image/jpeg;base64, ahlakid.com - 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",ahlakid.com - |.ES.| CANAL 25 BARBASTRO
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/65850.ts
-#EXTINF:-1 group-title="ESPANA" tvg-logo="http://one-iptv.com/imageslogo/Teledeporte.es.png",ahlakid.com - |.ES.D.| TELEDEPORTE FHD
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/66043.ts
-
-
-
-
-
-
-
+#EXTM3U 
+#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1509" tvg-name="Peruvisual" tvg-logo="https://cdn.m3u.cl/logo/1509_Peruvisual.png", Peruvisual ✪ | PE
+https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://cdn.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports | PE
+https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1179" tvg-name="Contacto Deportivo" tvg-logo="https://cdn.m3u.cl/logo/1179_Contacto_Deportivo.png", Contacto Deportivo | PE
+https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0&PlaylistM3UCL
+#EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://cdn.m3u.cl/logo/38_Best_Cable_Music.jpg", Best Cable Music | PE
+https://mi.godo.net.pe/best-Music-00112000050/index.m3u8?token=e0a18bf6735f8e15846914ed33e6ca41deb7efaf-e2c72e45701a92d4e8a3c20a03ecc95a-1696000579-1695989779&PlaylistM3UCL
+#EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://cdn.m3u.cl/logo/41_Hatun_TV.jpg", Hatun TV | PE
+https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8?token=bac16f8fe1d988a82e2077bfca45e1a29eab1d09-20fd168079ba17eb3f588267bdb38172-1696000662-1695989862&PlaylistM3UCL
+#EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://cdn.m3u.cl/logo/40_Mas_Cumbia.png", Mas Cumbia | PE
+https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8?token=f749c69e1bb169e24049c4c557e65899ba0718bc-df0876db1acf2e21cb925551f116726f-1696000627-1695989827&PlaylistM3UCL
+#EXTINF:-1 tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://cdn.m3u.cl/logo/471_Memorias_TV.png", Memorias TV | PE
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV | CL
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png", Planeta TV | PE
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1471" tvg-name="Ritmos Peru" tvg-logo="https://cdn.m3u.cl/logo/1471_Ritmos_Peru.png", Ritmos Peru | PE
+https://servilive.com:3791/live/ritmosperulive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://cdn.m3u.cl/logo/35_TOP_Latino_TV.png", TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://cdn.m3u.cl/logo/876_Vision_Musica_TV.png", Vision Musica TV | PE
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="684" tvg-name="Nativa" tvg-logo="https://cdn.m3u.cl/logo/684_Nativa.png", Nativa | PE
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="969" tvg-name="Onda Digital TV" tvg-logo="https://cdn.m3u.cl/logo/969_Onda_Digital_TV.png", Onda Digital TV | PE
+https://v4.tustreaming.cl:443/ondadigitaltv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png", TV Peru Noticias | PE
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="694" tvg-name="Antares TV" tvg-logo="https://cdn.m3u.cl/logo/694_Antares_TV.png", Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png", ATV | PE
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1492" tvg-name="ATV Sur" tvg-logo="https://cdn.m3u.cl/logo/1492_ATV_Sur.png", ATV Sur | PE
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" tvg-logo="https://cdn.m3u.cl/logo/1066_ATV_.png", ATV+ | PE
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1089" tvg-name="Autentica TV" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png", Autentica TV | PE
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1088" tvg-name="Best Cable TV" tvg-logo="https://cdn.m3u.cl/logo/1088_Best_Cable_TV.png", Best Cable TV | PE
+https://mi.godo.net.pe/BesTv-001120000100/index.m3u8?token=96c33c537c690c7e39aad2b7c54374e6ba47cdfc-dd4159a98a84e1810a54706ce10e3a13-1696000320-1695989520&PlaylistM3UCL
+#EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://cdn.m3u.cl/logo/695_BHTV.png", BHTV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1097" tvg-name="Canal 8 Catacaos" tvg-logo="https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png", Canal 8 Catacaos | PE
+https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1188" tvg-name="Controversia TV" tvg-logo="https://cdn.m3u.cl/logo/1188_Controversia_TV.png", Controversia TV | PE
+https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1180" tvg-name="CR TV" tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png", CR TV | PE
+https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://cdn.m3u.cl/logo/696_Cultura_24_TV.png", Cultura 24 TV | PE
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="978" tvg-name="DMJ" tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png", DMJ | PE
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1256" tvg-name="Doble C TV" tvg-logo="https://cdn.m3u.cl/logo/1256_Doble_C_TV.png", Doble C TV | PE
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://cdn.m3u.cl/logo/691_Exitosa.jpg", Exitosa | PE
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1093" tvg-name="Genios TV" tvg-logo="https://cdn.m3u.cl/logo/1093_Genios_TV.png", Genios TV | PE
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://cdn.m3u.cl/logo/697_Hechicera_TV.png", Hechicera TV | PE
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="690" tvg-name="JN19" tvg-logo="https://cdn.m3u.cl/logo/690_JN19.png", JN19 | PE
+https://servilive.com:3028/live/jntv19live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1190" tvg-name="Master Television" tvg-logo="https://cdn.m3u.cl/logo/1190_Master_Television.png", Master Television | PE
+https://tv.ondadigital.pe:1936/master/master/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="689" tvg-name="Mega TV" tvg-logo="https://cdn.m3u.cl/logo/689_Mega_TV.png", Mega TV | PE
+https://hls.servidor.stream/storage/megatv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1491" tvg-name="Mega TV Jaen" tvg-logo="https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png", Mega TV Jaen | PE
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1095" tvg-name="OK TeVe" tvg-logo="https://cdn.m3u.cl/logo/1095_OK_TeVe.png", OK TeVe | PE
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL
+#EXTINF:-1 tvg-id="699" tvg-name="Ovacion" tvg-logo="https://cdn.m3u.cl/logo/699_Ovacion.png", Ovacion | PE
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1290" tvg-name="Palmeras TV" tvg-logo="https://cdn.m3u.cl/logo/1290_Palmeras_TV.png", Palmeras TV | PE
+https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1405" tvg-name="Peru Channel" tvg-logo="https://cdn.m3u.cl/logo/1405_Peru_Channel.png", Peru Channel | PE
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1187" tvg-name="Sanjuanera TV" tvg-logo="https://cdn.m3u.cl/logo/1187_Sanjuanera_TV.png", Sanjuanera TV | PE
+https://live.obslivestream.com/sanjuanera/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1189" tvg-name="Telecolor TV" tvg-logo="https://cdn.m3u.cl/logo/1189_Telecolor_TV.png", Telecolor TV | PE
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1115" tvg-name="Tumpis TV" tvg-logo="https://cdn.m3u.cl/logo/1115_Tumpis_TV.png", Tumpis TV | PE
+https://servilive.com:3531/stream/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" tvg-logo="https://cdn.m3u.cl/logo/701_TV_Cosmos_15_1.png", TV Cosmos 15.1 | PE
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1091" tvg-name="TVPE" tvg-logo="https://cdn.m3u.cl/logo/1091_TVPE.png", TVPE | PE
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="686" tvg-name="TVperuanisima" tvg-logo="https://cdn.m3u.cl/logo/686_TVperuanisima.png", TVperuanisima | PE
+https://59ef525c24caa.streamlock.net/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="702" tvg-name="Unitel" tvg-logo="https://cdn.m3u.cl/logo/702_Unitel.png", Unitel | PE
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1094" tvg-name="Uranio TV" tvg-logo="https://cdn.m3u.cl/logo/1094_Uranio_TV.png", Uranio TV | PE
+https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1191" tvg-name="Via Alto Mayo TV" tvg-logo="https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png", Via Alto Mayo TV | PE
+https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png", Via Television Tarapoto | PE
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1490" tvg-name="Vision Sur Television" tvg-logo="https://cdn.m3u.cl/logo/1490_Vision_Sur_Television.png", Vision Sur Television | PE
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1183" tvg-name="VZ TV" tvg-logo="https://cdn.m3u.cl/logo/1183_VZ_TV.png", VZ TV | PE
+https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1536" tvg-name="Sinai TV" tvg-logo="https://cdn.m3u.cl/logo/1536_Sinai_TV.png", Sinai TV | PE
+https://stmv1.voxhdnet.com/segundonehemias5770/segundonehemias5770/playlist.m3u8?PlaylistM3UCL
+https://stmv1.voxhdnet.com/segundonehemias5770/segundonehemias5770/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/0rwsICg.png" group-title="Undefined",Agro TV (Apurimac) (720p) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Religious",Andes Televisión (720p) (720p) [Not 24/7]
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVSpanish.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Spanish (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (720p) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="ATMTelevision.pe" tvg-logo="https://i.imgur.com/pdmh1pT.png" group-title="Undefined",ATM Televisión (720p)
+https://v4.tustreaming.cl/atmtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Atmósfera TV (1080p)
+https://castv10.plugstreaming.com:19360/atmosferatv/atmosferatv.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (720p) [Not 24/7]
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Undefined",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Undefined",Bella Asunción TV (720p) [Not 24/7]
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/zgEvssl.png" group-title="Music",Best Cable Mas Cumbia (720p)
+https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/PXm4osQ.png" group-title="Music",Best Cable Music (720p)
+https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="General",Best Cable Perú (720p)
+https://mi.godo.net.pe/BesTv-001120000100/index.m3u8
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="Sports",Best Cable Sports Perú (720p)
+https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
+http://45.5.8.78:8000/play/a00i
+#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Undefined",Cadena TV (720p)
+https://servilive.com:3079/live/cdnatvlive.m3u8
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="General",Cajamarca TV (720p)
+https://mi.godo.net.pe:8081/0f03dsf32dsf13dsf/index.m3u8
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 Catacaos (720p) [Not 24/7]
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal33Ayacucho.pe" tvg-logo="https://i.imgur.com/GFHrKMy.png" group-title="Undefined",Canal 33 Ayacucho (360p)
+https://video2.getstreamhosting.com:19360/8206/8206.m3u8
+#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-logo="https://i.imgur.com/UzwlCzP.png" group-title="Culture",Canal Iberoamericano
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Family",Canal IPe (1080p)
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+#EXTINF:-1 tvg-id="CanalB.pe" tvg-logo="https://i.imgur.com/jueHIh2.png" group-title="News",CanalB (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFrOdZIiGOGFP5kk4xZgH6Q.m3u8
+#EXTINF:-1 tvg-id="CaribeTelevision.pe" tvg-logo="https://i.imgur.com/4MftJLp.png" group-title="Undefined",CaribeTV Otuzco (1080p) [Not 24/7]
+http://191.97.56.183:1935/caribetv/caribetv/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network FreeLive Latam 2 (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-logo="https://i.imgur.com/cWE1deh.png" group-title="Entertainment",Central TV Chosica (614p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="ClipsTV.pe" tvg-logo="https://i.imgur.com/TitYGtR.png" group-title="Undefined",ClipsTV (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:-1 tvg-id="CNCCajamarca.pe" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="Undefined",CNC Cajamarca (720p)
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
+http://181.78.24.67:8010/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2TV (720p) [Not 24/7]
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Legislative",Congreso TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Sports",Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV (720p) [Not 24/7]
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Televisión Moyobamba (720p) [Not 24/7]
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="General",CreoTV (720p) [Not 24/7]
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CTC.pe" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="Undefined",CTC (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://i.imgur.com/QJ9lVj2.png" group-title="General",Cubavisión Internacional (480p) [Not 24/7]
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24 (720p) [Not 24/7]
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="CumoTV.pe" tvg-logo="https://i.imgur.com/TdYNCBI.png" group-title="Culture",Cumo TV (720p) [Not 24/7]
+https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="Culture",Diáspora TV (720p) [Not 24/7]
+https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",Discovery Kids FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ Cuzco (720p) [Not 24/7]
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DNews.us" tvg-logo="https://i.imgur.com/jF2BabI.png" group-title="News",DNews (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
+#EXTINF:-1 tvg-id="DobleAA.pe" tvg-logo="https://i.imgur.com/d431PkD.png" group-title="Undefined",Doble AA (1080p)
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+#EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="General",Doble C Televisión [Not 24/7]
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (936p)
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max (480p) [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa (720p)
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",Fanpop TV (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/cF3sHbM.png" group-title="News",France 24 Español (1080p)
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Undefined",Frecuencia Musical TV (720p)
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/1LuNEX4.png" group-title="News",FuegoTV (Lima) (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
+#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="Music",Galáctica TV (1080p) [Not 24/7]
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/YBaxWQC.png" group-title="General",Galicia TV América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (720p) [Not 24/7]
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://i.imgur.com/cWz2vgV.png" group-title="Music",Hatun TV (720p)
+https://mi.godo.net.pe/Best00Hatum-0032101002/index.m3u8
+#EXTINF:-1 tvg-id="DiarioHechicera.pe" tvg-logo="https://i.imgur.com/I6tRVkA.png" group-title="Undefined",Hechicera TV (720p)
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",Hiperconectados Televisión (720p)
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 tvg-id="Hoynet.pe" tvg-logo="https://i.imgur.com/PqKlBq2.png" group-title="Undefined",Hoynet (360p)
+https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
+#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-logo="https://i.imgur.com/PevmfqK.png" group-title="General",Huacho Perú TV [Not 24/7]
+https://paneltv.rstreaminghd.net:3777/live/huachoperutvlive.m3u8
+#EXTINF:-1 tvg-id="HuanucoenVivo.pe" tvg-logo="https://i.imgur.com/j71I5nr.png" group-title="Undefined",Huánuco en Vivo (480p) [Not 24/7]
+https://vdo.grupolimalive.com:3810/live/antoniolive.m3u8
+#EXTINF:-1 tvg-id="IdentidadTV.pe" tvg-logo="https://i.imgur.com/q5jxzr2.png" group-title="News",Identidad TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenTelevisionRioja.pe" tvg-logo="https://i.imgur.com/a2lP0Ma.png" group-title="Undefined",Imagen Televisión Rioja (720p) [Not 24/7]
+http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Undefined",Impacto Televisión (360p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="General",Intuitiva TV (720p)
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religious",JN19 (1080p) [Not 24/7]
+https://servilive.com:3028/live/jntv19live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",JN19 TV2 (1080p) [Not 24/7]
+https://servilive.com:3224/live/jn19tv2live.m3u8
+#EXTINF:-1 tvg-id="JNETV.pe" tvg-logo="https://i.imgur.com/b25XfCj.png" group-title="Legislative",JNE TV (720p) [Not 24/7]
+https://dc1.webstream.eu/v1/jnetvhdstreaming/rtd144395a1/webstr,_video,_video_sd,_video_sd2,.mp4.urlset/master.m3u8
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaLuzTV.pe" tvg-logo="https://i.imgur.com/uAT4I4j.png" group-title="Religious",La Luz TV (720p) [Not 24/7]
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina (720p) [Geo-blocked]
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids (480p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="LimaLive.pe" tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Undefined",LimaLive (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV (Tarapoto) (480p) [Not 24/7]
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="General",MaticesTV (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV Arequipa (720p) [Not 24/7]
+https://hls.servidor.stream/storage/megatv.m3u8
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV Jaen (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV (480p)
+https://mediacp.us:8081/8002/index.m3u8
+#EXTINF:-1 tvg-id="MielTV.pe" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Music",Miel TV (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium 109 FM (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/kSMo53C.png" group-title="Education",MINEDU IPTV 1 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+#EXTINF:-1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/mbJ1FCQ.png" group-title="Education",MINEDU IPTV 2 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="MitosTV.pe" tvg-logo="https://i.imgur.com/uVaynHS.png" group-title="Undefined",MitosTV (480p) [Not 24/7]
+https://inliveserver.com:1936/19018/19018/playlist.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
+https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV Satipo (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/Z01XOuI.png" group-title="Religious",Nazarenas TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+#EXTINF:-1 tvg-id="NorSelvaRTV.pe" tvg-logo="https://i.imgur.com/87ObrJO.png" group-title="Undefined",NorSelva RTV (720p) [Not 24/7]
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-id="NovaTVStar.pe" tvg-logo="https://i.imgur.com/CN2j8S3.png" group-title="Undefined",Nova TV Star (360p) [Not 24/7]
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="Undefined",Oasis RTV (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+#EXTINF:-1 tvg-id="OKTeVe.pe" tvg-logo="https://i.imgur.com/07rA14I.png" group-title="General",OK TeVe (720p) [Not 24/7]
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaDigital.pe" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",Onda Digital (720p) [Not 24/7]
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (1080p) [Not 24/7]
+https://cdn75.iblups.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://animax.lat/assets/img/pandalogo2.png" group-title="Animation",Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="News",PBO Digital (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel (720p)
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="Undefined",Planeta TV (720p) [Not 24/7]
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="Primavera15.pe" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="General",Primavera 15 (720p)
+https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1 tvg-id="PymesTeVe.us" tvg-logo="https://i.imgur.com/5ZcW7Xa.png" group-title="Business",Pymes TeVe
+https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
+#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png" group-title="General",QT Televisión (720p) [Not 24/7]
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+#EXTINF:-1 tvg-id="QuassarTV.pe" tvg-logo="https://i.imgur.com/NpUqyYP.png" group-title="Undefined",Quassar TV (720p)
+https://gnstreammedia.com:19360/4000/4000.m3u8
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/9A6DBG7.png" group-title="Music",Radio Chalaca (720p) [Not 24/7]
+https://megastreamm.com:3611/stream/play.m3u8
+#EXTINF:-1 tvg-id="RadioElPueblo.pe" tvg-logo="https://i.imgur.com/Up1u4TH.png" group-title="Music",Radio El Pueblo (480p)
+https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+#EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="Travel",Radio Rutas del Perú (360p) [Not 24/7]
+https://tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-logo="https://i.imgur.com/TBPVOBI.png" group-title="Music",Radio Tropical Tarapoto (480p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="RadioTVTendencias.pe" tvg-logo="https://i.imgur.com/tsdrrV9.png" group-title="Music",Radio TV Tendencias (1080p) [Not 24/7]
+https://s1.tvdatta.com:3950/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="News",Radio Uno Tacna (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entertainment",RadioInka (1080p) [Not 24/7]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="Undefined",Rai Italia America (360p)
+http://210.210.155.69/s/s63/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra (1080p)
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="News",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="Undefined",Región TV Callao (480p) [Not 24/7]
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD (720p)
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 HD (720p)
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD (720p)
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="RNTelevision.pe" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Undefined",RN Televisión (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (1080p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="News",RTV Total (Yurimaguas) (480p) [Not 24/7]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:-1 tvg-id="RWTelevisionTarapoto.pe" tvg-logo="https://i.imgur.com/MPmUi6E.png" group-title="Undefined",RW Televisión Tarapoto (720p) [Not 24/7]
+https://live.obslivestream.com/rwtv/index.m3u8
