@@ -1,8 +1,24 @@
 #EXTM3U
-#EXTINF:-1,Caracol
-http://199.180.114.174:84/ccaracol.m3u8
-#EXTINF:-1,RCN
-http://199.180.114.174:84/crcn.m3u8
+#EXTINF:-1,Playboy FHD
+http://srv.cldplay.net:80/weeder/weeder@2021/147354
+#EXTINF:-1,Playboy FHD [Alt]
+http://srv.cldplay.net:80/weeder/weeder@2021/147749
+#EXTINF:-1,Playboy HD
+http://srv.cldplay.net:80/weeder/weeder@2021/83286
+#EXTINF:-1,Playboy HD [Alt]
+http://srv.cldplay.net:80/weeder/weeder@2021/147750
+#EXTINF:-1,Playboy TV FHD [H265]
+http://srv.cldplay.net:80/weeder/weeder@2021/163287
+#EXTINF:-1,Playboy TV SD
+http://srv.cldplay.net:80/weeder/weeder@2021/83598
+#EXTINF:-1,Visit-X TV HD
+http://srv.cldplay.net:80/weeder/weeder@2021/141034
+#EXTINF:-1,VENUS FHD
+http://srv.cldplay.net:80/weeder/weeder@2021/276478
+#EXTINF:-1,VENUS HD
+http://srv.cldplay.net:80/weeder/weeder@2021/276479
+#EXTINF:-1,VENUS SD
+http://srv.cldplay.net:80/weeder/weeder@2021/276480
 #EXTM3U
 #EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
