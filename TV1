@@ -19,7 +19,207 @@ http://srv.cldplay.net:80/weeder/weeder@2021/276478
 http://srv.cldplay.net:80/weeder/weeder@2021/276479
 #EXTINF:-1,VENUS SD
 http://srv.cldplay.net:80/weeder/weeder@2021/276480
-#EXTM3U
+#EXTM3U#EXTM3U
+#EXTINF:-1,ES:La1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/536
+#EXTINF:-1,ES:La2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/537
+#EXTINF:-1,ES:Antena 3
+http://iptv.ndasat.com:88/934756688470738/934756688470738/971
+#EXTINF:-1,ES:Cuatro
+http://iptv.ndasat.com:88/934756688470738/934756688470738/153
+#EXTINF:-1,ES:Tele5
+http://iptv.ndasat.com:88/934756688470738/934756688470738/36
+#EXTINF:-1,ES:La sexta
+http://iptv.ndasat.com:88/934756688470738/934756688470738/970
+#EXTINF:-1,ES:Canal 24 Horas
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3415
+#EXTINF:-1,ES:Canal Sur
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3414
+#EXTINF:-1,ES:FDF
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2754
+#EXTINF:-1,ES:Mega
+http://iptv.ndasat.com:88/934756688470738/934756688470738/925
+#EXTINF:-1,ES:Nova
+http://iptv.ndasat.com:88/934756688470738/934756688470738/924
+#EXTINF:-1,ES:Neox
+http://iptv.ndasat.com:88/934756688470738/934756688470738/930
+#EXTINF:-1,ES:ENERGY
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2735
+#EXTINF:-1,ES:DIVINITY
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2737
+#EXTINF:-1,ES:A3 series
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2700
+#EXTINF:-1,ES:Calle 13
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1039
+#EXTINF:-1,ES:Fox  ES
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1592
+#EXTINF:-1,ES:Syfy es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/929
+#EXTINF:-1,ES:Comedy Central es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1593
+#EXTINF:-1,ES:AXN es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1601
+#EXTINF:-1,ES:AXN  WHITE
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2728
+#EXTINF:-1,ES:#0
+http://iptv.ndasat.com:88/934756688470738/934756688470738/152
+#EXTINF:-1,ES:PARAMOUNT CHANNEL
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2725
+#EXTINF:-1,ES:SUNDANCE
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2724
+#EXTINF:-1,ES:COSMO
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2710
+#EXTINF:-1,ES:Ten
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2730
+#EXTINF:-1,ES:AMC ESP
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2729
+#EXTINF:-1,ES:SOMOS
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2733
+#EXTINF:-1,ES:Canal Cocina
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3952
+#EXTINF:-1,ES:Viajar
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3936
+#EXTINF:-1,ES:Toros Tv
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3935
+#EXTINF:-1,ES:Canal Panda SP
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3937
+#EXTINF:-1,ES:Taquilla1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1706
+#EXTINF:-1,ES:Taquilla2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1589
+#EXTINF:-1,ES:Taquilla3
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1584
+#EXTINF:-1,ES:Taquilla4
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1503
+#EXTINF:-1,ES:Taquilla5
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1502
+#EXTINF:-1,ES:Nat geo es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/558
+#EXTINF:-1,ES:Nat Geo Wild es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2755
+#EXTINF:-1,ES:Odisea
+http://iptv.ndasat.com:88/934756688470738/934756688470738/154
+#EXTINF:-1,ES:Discovery es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1600
+#EXTINF:-1,ES:DeCasa
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1599
+#EXTINF:-1,ES:Caza y Pesca
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1597
+#EXTINF:-1,ES:Nickelodeon es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1536
+#EXTINF:-1,ES:TNT
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1537
+#EXTINF:-1,ES:Disney Junior es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1538
+#EXTINF:-1,ES:Disney es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1539
+#EXTINF:-1,ES:Clan
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1541
+#EXTINF:-1,ES:Boing es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1540
+#EXTINF:-1,ES:Hollywood es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/157
+#EXTINF:-1,ES:M Laliga2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2756
+#EXTINF:-1,ES:Be Mad
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1594
+#EXTINF:-1,ES:M Golf
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1598
+#EXTINF:-1,ES:M Formula1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1595
+#EXTINF:-1,ES:#Vamos.
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1591
+#EXTINF:-1,ES:M Deportes
+http://iptv.ndasat.com:88/934756688470738/934756688470738/34
+#EXTINF:-1,ES:M. CINE ESPANOL
+http://iptv.ndasat.com:88/934756688470738/934756688470738/33
+#EXTINF:-1,ES:Real Madrid TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1038
+#EXTINF:-1,ES:Barca TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1037
+#EXTINF:-1,ES:Eurosport1 es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1596
+#EXTINF:-1,ES:GOL TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2753
+#EXTINF:-1,ES:la Liga  Tv BAR
+http://iptv.ndasat.com:88/934756688470738/934756688470738/32
+#EXTINF:-1,ES:Liga De Campeones
+http://iptv.ndasat.com:88/934756688470738/934756688470738/578
+#EXTINF:-1,ES:Movistar LaLiga
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1590
+#EXTINF:-1,ES:M Serie1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/35
+#EXTINF:-1,ES:M Drama
+http://iptv.ndasat.com:88/934756688470738/934756688470738/156
+#EXTINF:-1,ES:M Comedia
+http://iptv.ndasat.com:88/934756688470738/934756688470738/155
+#EXTINF:-1,ES:M  Accion
+http://iptv.ndasat.com:88/934756688470738/934756688470738/159
+#EXTINF:-1,ES:M Estrenos
+http://iptv.ndasat.com:88/934756688470738/934756688470738/31
+#EXTINF:-1,ES:Liga De Campeones 2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2696
+#EXTINF:-1,ES:MTV ESPANA
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2697
+#EXTINF:-1,ES:M.Estrenos2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2698
+#EXTINF:-1,ES:HISTORIA ESP
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2699
+#EXTINF:-1,ES:TELEDEPORTE
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2704
+#EXTINF:-1,ES:M.Serie 2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2721
+#EXTINF:-1,ES:BABY TV ESP
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2718
+#EXTINF:-1,ES:CRIMEN  INVES
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2709
+#EXTINF:-1,ES:Dkiss
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2746
+#EXTINF:-1,ES:Blaze
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2747
+#EXTINF:-1,ES:TCM
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2514
+#EXTINF:-1,ES:Liga De Campeones 1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2738
+#EXTINF:-1,ES:Dazn1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/19235
+#EXTINF:-1,ES:Dazn2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/19236
+#EXTINF:-1,ES:Dazn3
+http://iptv.ndasat.com:88/934756688470738/934756688470738/19237
+#EXTINF:-1,ES:Dazn4
+http://iptv.ndasat.com:88/934756688470738/934756688470738/19238
+#EXTINF:-1,ES:7rm
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21946
+#EXTINF:-1,ES:TV Galicia
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21947
+#EXTINF:-1,ES:Trece TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21948
+#EXTINF:-1,ES:Bom TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21949
+#EXTINF:-1,ES:Popular TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21950
+#EXTINF:-1,ES:8TV madrid
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21951
+#EXTINF:-1,ES:Eurosport 2 
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21952
+#EXTINF:-1,ES:A&E
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21953
+#EXTINF:-1,ES:Dark
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21954
+#EXTINF:-1,ES:M Laliga3
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21955
+#EXTINF:-1,ES:Aragon TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21956
+#EXTINF:-1,ES:Extremadura TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21957
+#EXTINF:-1,ES:Iberalia 
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21958
+#EXTINF:-1,ES:nick JR
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21959
+#EXTINF:-1,ES:TV3 Cat
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21960
 #EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1 tvg-id="12VisionEncarnacion.mx" tvg-logo="https://i.imgur.com/yvQJQNF.jpg" group-title="General",12 Visión Encarnación (1080p) [Not 24/7]
@@ -204,40 +404,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
 #EXTINF:-1 tvg-id="EfesoTelevision.mx" tvg-logo="https://i.imgur.com/zJCsPB2.jpg" group-title="Religious",Efeso Televisión (1080p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/Esotelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="XHFGLTDT.mx" tvg-logo="https://i.imgur.com/9ZXCQvy.png" group-title="General",El 15 TV (720p)
-https://stream.oursnetworktv.com/latin/encoder32/playlist.m3u8
-#EXTINF:-1 tvg-id="ElNu9ve.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/512px-Nueve_%282018_logo%29.png" group-title="Entertainment",El NU9VE (1080p)
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 tvg-id="ElSonorense.mx" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" group-title="Culture",El Sonorense (1080p) [Not 24/7]
-https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
-https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (1080p)
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max (480p) [Not 24/7]
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entertainment;Family",Estrella Games (1080p)
-https://estrella-games-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="News",Estrella News (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",Estrella TV (1080p)
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="Undefined",Excélsior TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-#EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="General",Expresa TV (720p)
-https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",Fanpop TV
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="Movies",Filmex (Xumo) (1080p) [Geo-blocked]
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Movies",Filmex Clásico (1080p) [Geo-blocked]
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",Foro TV (1080p)
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
