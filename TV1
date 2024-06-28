@@ -1,121 +1,26 @@
-#EXTM3U
-#EXTINF:-1,Playboy FHD
-http://srv.cldplay.net:80/weeder/weeder@2021/147354
-#EXTINF:-1,Playboy FHD [Alt]
-http://srv.cldplay.net:80/weeder/weeder@2021/147749
-#EXTINF:-1,Playboy HD
-http://srv.cldplay.net:80/weeder/weeder@2021/83286
-#EXTINF:-1,Playboy HD [Alt]
-http://srv.cldplay.net:80/weeder/weeder@2021/147750
-#EXTINF:-1,Playboy TV FHD [H265]
-http://srv.cldplay.net:80/weeder/weeder@2021/163287
-#EXTINF:-1,Playboy TV SD
-http://srv.cldplay.net:80/weeder/weeder@2021/83598
-#EXTINF:-1,Visit-X TV HD
-http://srv.cldplay.net:80/weeder/weeder@2021/141034
-#EXTINF:-1,VENUS FHD
-http://srv.cldplay.net:80/weeder/weeder@2021/276478
-#EXTINF:-1,VENUS HD
-http://srv.cldplay.net:80/weeder/weeder@2021/276479
-#EXTINF:-1,VENUS SD
-http://srv.cldplay.net:80/weeder/weeder@2021/276480
-#EXTM3U#EXTM3U
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports",Claro Sports
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
-http://181.78.24.67:8010/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-logo="https://i.imgur.com/QJ9lVj2.png" group-title="General",Cubavisión Internacional (720p)
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Película (576p)
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Película Plus (576p)
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="EfesoTelevision.mx" tvg-logo="https://i.imgur.com/zJCsPB2.jpg" group-title="Religious",Efeso Televisión (1080p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/Esotelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",Foro TV (1080p)
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="FMTV.us" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Undefined",Frecuencia Musical TV [Not 24/7]
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/YBaxWQC.png" group-title="General",Galicia TV América (720p)
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="Undefined",Imagen TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
-#EXTINF:-1,USA Latin LA 1
-http://ky-iptv.com:80/123456789C/123456789C/176325.ts
-#EXTINF:-1,USA Latin La 1 Catalunya
-http://ky-iptv.com:80/123456789C/123456789C/176326.ts
-#EXTINF:-1,USA Latin La 2
-http://ky-iptv.com:80/123456789C/123456789C/176327.ts
-#EXTINF:-1,USA Latin La Sexta
-http://ky-iptv.com:80/123456789C/123456789C/176328.ts
-#EXTINF:-1,USA Latin Telefe
-http://ky-iptv.com:80/123456789C/123456789C/176346.ts
-#EXTINF:-1,USA Latin Telehit
-http://ky-iptv.com:80/123456789C/123456789C/176348.ts
-#EXTINF:-1,USA LATIN Teleritmo
-http://ky-iptv.com:80/123456789C/123456789C/176349.ts
-#EXTINF:-1,LA: Latin Univision
-http://ky-iptv.com:80/123456789C/123456789C/176363.ts
-#EXTINF:-1,||XXX||  JASMinTV
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67289
-#EXTINF:-1,||XXX||  DUSK
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67292
-#EXTINF:-1,||XXX||  SUPER ONE
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67296
-#EXTINF:-1,||XXX||  BALKAN EROTiC
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67298
-#EXTINF:-1,||XXX||  PiNK EROTiC-2
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67307
-#EXTINF:-1,||XXX||  PiNK EROTiC-3
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67308
-#EXTINF:-1,||XXX||  PiNK EROTiC-5
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67310
-#EXTINF:-1,||XXX||  ViViD RED
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67311
-#EXTINF:-1,||XXX||  ViViD EUROPE
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67312
-#EXTINF:-1,||XXX||  EROX
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67313
-#EXTINF:-1,||XXX||  BABES
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67315
-#EXTINF:-1,||XXX||  OLD TIMER
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67317
-#EXTINF:-1,||XXX||  PASSIE
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67321
-#EXTINF:-1,||XXX||  REALITY KINGS
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67324
-#EXTINF:-1,||XXX||   XY PLUS
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/67332
-#EXTINF:-1,||XXX|| HUSTLER FHD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/2132
-#EXTINF:-1,||XXX|| BLACKED RAW
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/2134
-#EXTINF:-1,||XXX|| DORCEL TV HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7053
-#EXTINF:-1,||XXX|| REDLIGHT HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7054
-#EXTINF:-1,||XXX|| VENUS HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7055
-#EXTINF:-1,||XXX|| PLAYBOY TV HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7056
-#EXTINF:-1,||XXX|| PENTHOUSE GOLD HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7057
-#EXTINF:-1,||XXX|| PENTHOUSE QUICKIES HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7058
-#EXTINF:-1,||XXX|| HARDCORE (EXCLUSIVE) HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7062
-#EXTINF:-1,||XXX|| DORCELCLUB (EXCLUSIVE) HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7063
-#EXTINF:-1,||XXX|| FAKE TAXI (EXCLUSIVE) HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7064
-#EXTINF:-1,||XXX|| PRIVATE TV HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/7065
-#EXTINF:-1,||XXX|| BRAZZERS TV HD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/2112
-#EXTINF:-1,||XXX|| BANGBUS FHD
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/2114
-#EXTINF:-1,||XXX|| MIA KHALIFA
-http://obsfullhd.tv:25461/@pabloiptv/VCwNMdgUK572/2116
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="XXX Adultos", PlayboyX Tv
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Dusk
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", Juice
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="XXX Adultos", SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", You Porn
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="XXX Adultos", PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="XXX Adultos", Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="XXX Adultos", BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="XXX Adultos", HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png" group-title="XXX Adultos", PrivateX
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png" group-title="XXX Adultos", RedlightX
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="XXX Adultos", VENUS
+http://live.redtraffic.xyz/interracial.m3u8
