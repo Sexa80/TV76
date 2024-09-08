@@ -1,362 +1,209 @@
-#EXTINF:-1 tvg-id="" tvg-name="CH: SRF Info HD" tvg-logo="http://alibaba.gotoplucky.com:23000/images/e63c9fa63f01e69c3af7116b53947926.png" group-title="SVIZZERA",CH: SRF Info HD
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/39816
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="[SP] TVE LA 1 HD" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="SPAGNA",[SP] TVE LA 1 HD
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48799
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="[SP] TVE LA 2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="SPAGNA",[SP] TVE LA 2
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48800
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="[ES_MOVISTAR+] LA 1" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="SPAGNA",[ES_MOVISTAR+] LA 1
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48586
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="[ES_MOVISTAR+] LA 2" tvg-logo="https://i.imgur.com/3NwzqoB.png" group-title="SPAGNA",[ES_MOVISTAR+] LA 2
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48587
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="[ES_MOVISTAR+] Antena 3" tvg-logo="https://i.imgur.com/aS4aGmB.png" group-title="SPAGNA",[ES_MOVISTAR+] Antena 3
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48588
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="[ES_MOVISTAR+] Cuatro" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="SPAGNA",[ES_MOVISTAR+] Cuatro
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48589
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="[ES_MOVISTAR+] Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png" group-title="SPAGNA",[ES_MOVISTAR+] Telecinco
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48591
-#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="[ES_MOVISTAR+] La Sexta" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="SPAGNA",[ES_MOVISTAR+] La Sexta
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48592
-#EXTINF:-1 tvg-id="M+ La Resistencia HD" tvg-name="[ES_MOVISTAR+] La Resistencia" tvg-logo="https://i.imgur.com/4Fu9gU1.png" group-title="SPAGNA",[ES_MOVISTAR+] La Resistencia
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48603
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="[ES_MOVISTAR+] TCM" tvg-logo="https://i.imgur.com/juCNJxd.png" group-title="SPAGNA",[ES_MOVISTAR+] TCM
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48604
-#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="[ES_MOVISTAR+] Hollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/512px-HWD_logo.svg.png" group-title="SPAGNA",[ES_MOVISTAR+] Hollywood
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48605
-#EXTINF:-1 tvg-id="XTRM.es" tvg-name="[ES_MOVISTAR+] XTRM" tvg-logo="https://i.imgur.com/7oD99AN.png" group-title="SPAGNA",[ES_MOVISTAR+] XTRM
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48606
-#EXTINF:-1 tvg-id="Sundance" tvg-name="[ES_MOVISTAR+] Sundance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png" group-title="SPAGNA",[ES_MOVISTAR+] Sundance
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48607
-#EXTINF:-1 tvg-id="Dark.es" tvg-name="[ES_MOVISTAR+] DARK" tvg-logo="https://i.imgur.com/IMHaDHN.png" group-title="SPAGNA",[ES_MOVISTAR+] DARK
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48608
-#EXTINF:-1 tvg-id="Somos.es" tvg-name="[ES_MOVISTAR+] Somos" tvg-logo="https://i.imgur.com/xAyOKCB.png" group-title="SPAGNA",[ES_MOVISTAR+] Somos
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48609
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="[ES_MOVISTAR+] Calle 13" tvg-logo="https://i.imgur.com/6CKqVTO.png" group-title="SPAGNA",[ES_MOVISTAR+] Calle 13
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48618
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="[ES_MOVISTAR+] COSMO" tvg-logo="https://i.imgur.com/YJOJJve.png" group-title="SPAGNA",[ES_MOVISTAR+] COSMO
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48619
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="[ES_MOVISTAR+] AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="SPAGNA",[ES_MOVISTAR+] AMC
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48620
-#EXTINF:-1 tvg-id="" tvg-name="[ES_MOVISTAR+] AXN Movies" tvg-logo="http://alibaba.gotoplucky.com:8181/Picons/SPAGNA/axn%20movie.png" group-title="SPAGNA",[ES_MOVISTAR+] AXN Movies
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48621
-#EXTINF:-1 tvg-id="SYFY HD" tvg-name="[ES_MOVISTAR+] SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="SPAGNA",[ES_MOVISTAR+] SYFY
-http://5.252.33.52:23000/GS0uyLWfW9/By4XJ74srd/48622
-#EXTINF:-1,||ES|| COMEDY CENTRAL FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1914.ts
-#EXTINF:-1,||ES|| COSMO FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1915.ts
-#EXTINF:-1,||ES|| CUATRO  FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1916.ts
-#EXTINF:-1,||ES|| DISNEY CHANNEL FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1917.ts
-#EXTINF:-1,||ES|| EUROSPORT 1 FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1918.ts
-#EXTINF:-1,||ES|| FOX FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1919.ts
-#EXTINF:-1,||ES|| HISTORIA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1920.ts
-#EXTINF:-1,||ES|| HOLLYWOOD FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1921.ts
-#EXTINF:-1,||ES|| LA 1 FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1922.ts
-#EXTINF:-1,||ES|| LA LIGA TV BAR FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1923.ts
-#EXTINF:-1,||ES|| M+ LALIGA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1924.ts
-#EXTINF:-1,||ES|| MOVISTAR ACCION FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1925.ts
-#EXTINF:-1,||ES|| MOVISTAR CINEDOC&ROLL FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1926.ts
-#EXTINF:-1,||ES|| MOVISTAR COMEDIA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1927.ts
-#EXTINF:-1,||ES|| MOVISTAR DEPORTES FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1928.ts
-#EXTINF:-1,||ES|| MOVISTAR DRAMA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1929.ts
-#EXTINF:-1,||ES|| MOVISTAR ESTRENOS FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1930.ts
-#EXTINF:-1,||ES|| MOVISTAR FORMULA 1 FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1931.ts
-#EXTINF:-1,||ES|| MOVISTAR GOLF FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1932.ts
-#EXTINF:-1,||ES|| MOVISTAR LIGA DE CAMPEONES FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1933.ts
-#EXTINF:-1,||ES|| MOVISTAR SERIES FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1934.ts
-#EXTINF:-1,||ES|| MOVISTAR SERIESMANIA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1935.ts
-#EXTINF:-1,||ES|| MEGA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1936.ts
-#EXTINF:-1,||ES|| NAT GEO WILD FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1937.ts
-#EXTINF:-1,||ES|| NICKELODEON FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1938.ts
-#EXTINF:-1,||ES|| REAL MADRID TV FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1939.ts
-#EXTINF:-1,||ES|| TCM FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1940.ts
-#EXTINF:-1,||ES|| TELECINCO FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1941.ts
-#EXTINF:-1,||ES|| TELEDEPORTE FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1942.ts
-#EXTINF:-1,||ES|| TNT FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1943.ts
-#EXTINF:-1,||ES|| #0 FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3569.ts
-#EXTINF:-1,||ES|| 7RM FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3570.ts
-#EXTINF:-1,||ES|| A3 SERIES FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3572.ts
-#EXTINF:-1,||ES|| ANTENA 3 FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3574.ts
-#EXTINF:-1,||ES|| AXN WHITE FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3575.ts
-#EXTINF:-1,||ES|| BEIN LALIGA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3578.ts
-#EXTINF:-1,||ES|| BEIN SPORTS LA LIGA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3582.ts
-#EXTINF:-1,||ES|| BE MAD FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3584.ts
-#EXTINF:-1,||ES|| MOVISTAR DCINE FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3610.ts
-#EXTINF:-1,||ES|| MOVISTAR VAMOS FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3619.ts
-#EXTINF:-1,||ES|| MOVISTAR XTRA FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3620.ts
-#EXTINF:-1,||ES|| NATIONAL GEO FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3622.ts
-#EXTINF:-1,||ES|| SYFY FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3625.ts
-#EXTINF:-1,||ES|| LA 2 FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5340.ts
-#EXTINF:-1,||ES|| FOX LIFE FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5347.ts
-#EXTINF:-1,||ES|| LIGA 123 FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5353.ts
-#EXTINF:-1,||ES|| DISCOVERY CHANNEL FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5357.ts
-#EXTINF:-1,||ES|| SOMOS FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5359.ts
-#EXTINF:-1,||ES|| FOX LIFE FHD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5370.ts
-#EXTINF:-1,||ES|| LA 1 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1509.ts
-#EXTINF:-1,||ES|| LA 2 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1510.ts
-#EXTINF:-1,||ES|| COSMO HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1511.ts
-#EXTINF:-1,||ES|| FDF HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1512.ts
-#EXTINF:-1,||ES|| CUATRO HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1513.ts
-#EXTINF:-1,||ES|| LA SEXTA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1514.ts
-#EXTINF:-1,||ES|| FOX HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1515.ts
-#EXTINF:-1,||ES|| SYFY HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1516.ts
-#EXTINF:-1,||ES|| CAZA Y PESCA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1517.ts
-#EXTINF:-1,||ES|| CALLE 13 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1519.ts
-#EXTINF:-1,||ES|| AXN HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1520.ts
-#EXTINF:-1,||ES|| AXN WHITE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1521.ts
-#EXTINF:-1,||ES|| CANAL DRAMA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1523.ts
-#EXTINF:-1,||ES|| MOVISTAR  ESTRENOS HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1526.ts
-#EXTINF:-1,||ES|| NICKELODEON HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1527.ts
-#EXTINF:-1,||ES|| DISNEY CHANNEL HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1529.ts
-#EXTINF:-1,||ES|| DISNEY JUNIOR HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1530.ts
-#EXTINF:-1,||ES|| BABY TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1533.ts
-#EXTINF:-1,||ES|| CRIME & INVESTIGATION HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1534.ts
-#EXTINF:-1,||ES|| DISCOVERY CHANNEL HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1535.ts
-#EXTINF:-1,||ES|| NATIONAL GEOGRAPHICS HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1536.ts
-#EXTINF:-1,||ES|| NAT GEO WILD HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1537.ts
-#EXTINF:-1,||ES|| HISTORIA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1538.ts
-#EXTINF:-1,||ES|| BLAZE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1757.ts
-#EXTINF:-1,||ES|| COMEDY CENTRAL HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1761.ts
-#EXTINF:-1,||ES|| EUROSPORT 1 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1833.ts
-#EXTINF:-1,||ES|| EUROSPORT 2 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1834.ts
-#EXTINF:-1,||ES|| ENERGY HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1835.ts
-#EXTINF:-1,||ES|| GOL TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1838.ts
-#EXTINF:-1,||ES|| HOLLYWOOD HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1841.ts
-#EXTINF:-1,||ES|| MEGA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1856.ts
-#EXTINF:-1,||ES|| NOVA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1861.ts
-#EXTINF:-1,||ES|| REAL MADRID TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1862.ts
-#EXTINF:-1,||ES|| TELECINCO HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1865.ts
-#EXTINF:-1,||ES|| TNT HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1870.ts
-#EXTINF:-1,||ES|| ANDALUCIA TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3557.ts
-#EXTINF:-1,||ES|| ANTENA 3 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3558.ts
-#EXTINF:-1,||ES|| CANAL 24 HORAS HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3559.ts
-#EXTINF:-1,||ES|| CANAL ORBE21 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3560.ts
-#EXTINF:-1,||ES|| MOVISTAR ACCION HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3561.ts
-#EXTINF:-1,||ES|| MOVISTAR DCINE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3563.ts
-#EXTINF:-1,||ES|| MOVISTAR XTRA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3564.ts
-#EXTINF:-1,||ES|| TCM HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3565.ts
-#EXTINF:-1,||ES|| TELEDEPORTE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3566.ts
-#EXTINF:-1,||ES|| TV GALICIA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3567.ts
-#EXTINF:-1,||ES|| TV3 CATALONIA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3568.ts
-#EXTINF:-1,||ES|| A&E HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3571.ts
-#EXTINF:-1,||ES|| AMC HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3573.ts
-#EXTINF:-1,||ES|| BARCA TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3576.ts
-#EXTINF:-1,||ES|| BEIN LIGA 2 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3579.ts
-#EXTINF:-1,||ES|| BEIN LIGA 3 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3580.ts
-#EXTINF:-1,||ES|| BEIN SPORTS SPAIN HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3583.ts
-#EXTINF:-1,||ES|| BOING HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3585.ts
-#EXTINF:-1,||ES|| CANAL DELCASA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3587.ts
-#EXTINF:-1,||ES|| CANAL PANDA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3589.ts
-#EXTINF:-1,||ES|| CANAL+ COCINA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3590.ts
-#EXTINF:-1,||ES|| CANAL+ TOROS HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3591.ts
-#EXTINF:-1,||ES|| CLAN TVE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3592.ts
-#EXTINF:-1,||ES|| DIVINITY HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3594.ts
-#EXTINF:-1,||ES|| DMAX HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3595.ts
-#EXTINF:-1,||ES|| ESPN HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3596.ts
-#EXTINF:-1,||ES|| LA LIGA TV BAR HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3597.ts
-#EXTINF:-1,||ES|| MEZZO LIVE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3598.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 1 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3599.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 2 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3600.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 3 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3601.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 4 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3602.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 5 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3603.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 6 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3604.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 7 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3605.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 8 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3606.ts
-#EXTINF:-1,||ES|| MOVISTAR ALQUILER 9 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3607.ts
-#EXTINF:-1,||ES|| MOVISTAR CINE N HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3608.ts
-#EXTINF:-1,||ES|| MOVISTAR CINEDOC&ROLL HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3609.ts
-#EXTINF:-1,||ES|| MOVISTAR DRAMA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3611.ts
-#EXTINF:-1,||ES|| MOVISTAR F1 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3612.ts
-#EXTINF:-1,||ES|| MOVISTAR FUTBOL HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3613.ts
-#EXTINF:-1,||ES|| MOVISTAR GOLF HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3614.ts
-#EXTINF:-1,||ES|| MOVISTAR LIGA CAMPEONES HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3615.ts
-#EXTINF:-1,||ES|| MOVISTAR MOTO GP HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3616.ts
-#EXTINF:-1,||ES|| MOVISTAR SERIES HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3617.ts
-#EXTINF:-1,||ES|| MOVISTAR SERIESMANIA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3618.ts
-#EXTINF:-1,||ES|| MTV ESPANA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3621.ts
-#EXTINF:-1,||ES|| NEOX TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3623.ts
-#EXTINF:-1,||ES|| SUNDANCE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3624.ts
-#EXTINF:-1,||ES|| TRECE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3626.ts
-#EXTINF:-1,||ES|| VIAJAR HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/3627.ts
-#EXTINF:-1,||ES|| 13 TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5341.ts
-#EXTINF:-1,||ES|| CANAL COSTA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5342.ts
-#EXTINF:-1,||ES|| DKISS HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5344.ts
-#EXTINF:-1,||ES|| TEN HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5345.ts
-#EXTINF:-1,||ES|| FOX NEWS HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5350.ts
-#EXTINF:-1,||ES|| ODISEA HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5355.ts
-#EXTINF:-1,||ES|| MOVISTAR DISNEY HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5356.ts
-#EXTINF:-1,||ES|| SOMOS HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5358.ts
-#EXTINF:-1,||ES|| A3 SERIES HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5368.ts
-#EXTINF:-1,||ES|| FOX NEWS CHANNEL HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5371.ts
-#EXTINF:-1,||ES|| HIT TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5373.ts
-#EXTINF:-1,||ES|| HOLA TV HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5374.ts
-#EXTINF:-1,||ES|| NON STOP PEOPLE HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5376.ts
-#EXTINF:-1,||ES|| TVE INTERNACIONAL HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/5377.ts
-#EXTINF:-1,||ES|| BE MAD HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6670.ts
-#EXTINF:-1,||ES|| #0 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6748.ts
-#EXTINF:-1,||ES|| XTRM HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6945.ts
-#EXTINF:-1,||ES|| M. DEPORTE 1 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6947.ts
-#EXTINF:-1,||ES|| M. DEPORTE 2 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6948.ts
-#EXTINF:-1,||ES|| DARK HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6952.ts
-#EXTINF:-1,||ES|| LIGA DE CAMPEONES 2 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6953.ts
-#EXTINF:-1,||ES|| LIGA DE CAMPEONES 1 HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6960.ts
-#EXTINF:-1,||ES|| CRIMEN  INVESTIGACION HD
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/6961.ts
-#EXTINF:-1,||ES|| PANDA
-http://obsfullhd.tv:25461/live/live:duygulu__68/KFHJR7LEVVELN83DJ8/1528.ts
+#EXTM3U
+#EXTINF:-1,ES:La1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/536
+#EXTINF:-1,ES:La2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/537
+#EXTINF:-1,ES:Antena 3
+http://iptv.ndasat.com:88/934756688470738/934756688470738/971
+#EXTINF:-1,ES:Cuatro
+http://iptv.ndasat.com:88/934756688470738/934756688470738/153
+#EXTINF:-1,ES:Tele5
+http://iptv.ndasat.com:88/934756688470738/934756688470738/36
+#EXTINF:-1,ES:La sexta
+http://iptv.ndasat.com:88/934756688470738/934756688470738/970
+#EXTINF:-1,ES:Canal 24 Horas
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3415
+#EXTINF:-1,ES:Canal Sur
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3414
+#EXTINF:-1,ES:FDF
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2754
+#EXTINF:-1,ES:Mega
+http://iptv.ndasat.com:88/934756688470738/934756688470738/925
+#EXTINF:-1,ES:Nova
+http://iptv.ndasat.com:88/934756688470738/934756688470738/924
+#EXTINF:-1,ES:Neox
+http://iptv.ndasat.com:88/934756688470738/934756688470738/930
+#EXTINF:-1,ES:ENERGY
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2735
+#EXTINF:-1,ES:DIVINITY
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2737
+#EXTINF:-1,ES:A3 series
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2700
+#EXTINF:-1,ES:Calle 13
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1039
+#EXTINF:-1,ES:Fox  ES
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1592
+#EXTINF:-1,ES:Syfy es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/929
+#EXTINF:-1,ES:Comedy Central es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1593
+#EXTINF:-1,ES:AXN es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1601
+#EXTINF:-1,ES:AXN  WHITE
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2728
+#EXTINF:-1,ES:#0
+http://iptv.ndasat.com:88/934756688470738/934756688470738/152
+#EXTINF:-1,ES:PARAMOUNT CHANNEL
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2725
+#EXTINF:-1,ES:SUNDANCE
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2724
+#EXTINF:-1,ES:COSMO
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2710
+#EXTINF:-1,ES:Ten
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2730
+#EXTINF:-1,ES:AMC ESP
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2729
+#EXTINF:-1,ES:SOMOS
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2733
+#EXTINF:-1,ES:Canal Cocina
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3952
+#EXTINF:-1,ES:Viajar
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3936
+#EXTINF:-1,ES:Toros Tv
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3935
+#EXTINF:-1,ES:Canal Panda SP
+http://iptv.ndasat.com:88/934756688470738/934756688470738/3937
+#EXTINF:-1,ES:Taquilla1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1706
+#EXTINF:-1,ES:Taquilla2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1589
+#EXTINF:-1,ES:Taquilla3
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1584
+#EXTINF:-1,ES:Taquilla4
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1503
+#EXTINF:-1,ES:Taquilla5
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1502
+#EXTINF:-1,ES:Nat geo es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/558
+#EXTINF:-1,ES:Nat Geo Wild es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2755
+#EXTINF:-1,ES:Odisea
+http://iptv.ndasat.com:88/934756688470738/934756688470738/154
+#EXTINF:-1,ES:Discovery es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1600
+#EXTINF:-1,ES:DeCasa
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1599
+#EXTINF:-1,ES:Caza y Pesca
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1597
+#EXTINF:-1,ES:Nickelodeon es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1536
+#EXTINF:-1,ES:TNT
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1537
+#EXTINF:-1,ES:Disney Junior es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1538
+#EXTINF:-1,ES:Disney es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1539
+#EXTINF:-1,ES:Clan
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1541
+#EXTINF:-1,ES:Boing es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1540
+#EXTINF:-1,ES:Hollywood es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/157
+#EXTINF:-1,ES:M Laliga2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2756
+#EXTINF:-1,ES:Be Mad
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1594
+#EXTINF:-1,ES:M Golf
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1598
+#EXTINF:-1,ES:M Formula1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1595
+#EXTINF:-1,ES:#Vamos.
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1591
+#EXTINF:-1,ES:M Deportes
+http://iptv.ndasat.com:88/934756688470738/934756688470738/34
+#EXTINF:-1,ES:M. CINE ESPANOL
+http://iptv.ndasat.com:88/934756688470738/934756688470738/33
+#EXTINF:-1,ES:Real Madrid TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1038
+#EXTINF:-1,ES:Barca TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1037
+#EXTINF:-1,ES:Eurosport1 es
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1596
+#EXTINF:-1,ES:GOL TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2753
+#EXTINF:-1,ES:la Liga  Tv BAR
+http://iptv.ndasat.com:88/934756688470738/934756688470738/32
+#EXTINF:-1,ES:Liga De Campeones
+http://iptv.ndasat.com:88/934756688470738/934756688470738/578
+#EXTINF:-1,ES:Movistar LaLiga
+http://iptv.ndasat.com:88/934756688470738/934756688470738/1590
+#EXTINF:-1,ES:M Serie1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/35
+#EXTINF:-1,ES:M Drama
+http://iptv.ndasat.com:88/934756688470738/934756688470738/156
+#EXTINF:-1,ES:M Comedia
+http://iptv.ndasat.com:88/934756688470738/934756688470738/155
+#EXTINF:-1,ES:M  Accion
+http://iptv.ndasat.com:88/934756688470738/934756688470738/159
+#EXTINF:-1,ES:M Estrenos
+http://iptv.ndasat.com:88/934756688470738/934756688470738/31
+#EXTINF:-1,ES:Liga De Campeones 2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2696
+#EXTINF:-1,ES:MTV ESPANA
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2697
+#EXTINF:-1,ES:M.Estrenos2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2698
+#EXTINF:-1,ES:HISTORIA ESP
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2699
+#EXTINF:-1,ES:TELEDEPORTE
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2704
+#EXTINF:-1,ES:M.Serie 2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2721
+#EXTINF:-1,ES:BABY TV ESP
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2718
+#EXTINF:-1,ES:CRIMEN  INVES
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2709
+#EXTINF:-1,ES:Dkiss
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2746
+#EXTINF:-1,ES:Blaze
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2747
+#EXTINF:-1,ES:TCM
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2514
+#EXTINF:-1,ES:Liga De Campeones 1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/2738
+#EXTINF:-1,ES:Dazn1
+http://iptv.ndasat.com:88/934756688470738/934756688470738/19235
+#EXTINF:-1,ES:Dazn2
+http://iptv.ndasat.com:88/934756688470738/934756688470738/19236
+#EXTINF:-1,ES:Dazn3
+http://iptv.ndasat.com:88/934756688470738/934756688470738/19237
+#EXTINF:-1,ES:Dazn4
+http://iptv.ndasat.com:88/934756688470738/934756688470738/19238
+#EXTINF:-1,ES:7rm
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21946
+#EXTINF:-1,ES:TV Galicia
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21947
+#EXTINF:-1,ES:Trece TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21948
+#EXTINF:-1,ES:Bom TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21949
+#EXTINF:-1,ES:Popular TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21950
+#EXTINF:-1,ES:8TV madrid
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21951
+#EXTINF:-1,ES:Eurosport 2 
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21952
+#EXTINF:-1,ES:A&E
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21953
+#EXTINF:-1,ES:Dark
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21954
+#EXTINF:-1,ES:M Laliga3
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21955
+#EXTINF:-1,ES:Aragon TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21956
+#EXTINF:-1,ES:Extremadura TV
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21957
+#EXTINF:-1,ES:Iberalia 
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21958
+#EXTINF:-1,ES:nick JR
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21959
+#EXTINF:-1,ES:TV3 Cat
+http://iptv.ndasat.com:88/934756688470738/934756688470738/21960
+#EXTINF:-1,US: Telemundo Dallas HD
+http://fronteratvonline.com:8080/letty/letty/153139
+#EXTINF:-1,US: Telemundo Fresno HD
+http://fronteratvonline.com:8080/letty/letty/153140
+#EXTINF:-1,US: Telemundo Philadelphia HD
+http://fronteratvonline.com:8080/letty/letty/153141
+#EXTINF:-1,US: Telemundo San Antonio HD
+http://fronteratvonline.com:8080/letty/letty/153142
