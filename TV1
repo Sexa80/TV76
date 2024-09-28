@@ -29,3 +29,17 @@ http://121527324209321196.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321196.ts
 http://121527324209321197.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321197.ts
 #EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO SD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO SD
 http://121527324209321198.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321198.ts
+#EXTINF:-1,ES-Tve La 1
+http://av01020.com:2095/bigsat1160633/bigsat1130987/5385
+#EXTINF:-1,ES-Tve La 2
+http://av01020.com:2095/bigsat1160633/bigsat1130987/5386
+#EXTINF:-1,ES-Cuatro
+http://av01020.com:2095/bigsat1160633/bigsat1130987/2355
+#EXTINF:-1,ES-Fox
+http://av01020.com:2095/bigsat1160633/bigsat1130987/2350
+#EXTINF:-1,ES-Hollywood
+http://av01020.com:2095/bigsat1160633/bigsat1130987/2349
+#EXTINF:-1,ES-La_Sextra
+http://av01020.com:2095/bigsat1160633/bigsat1130987/2354
+#EXTINF:-1,ES-Antena3
+http://av01020.com:2095/bigsat1160633/bigsat1130987/2356
