@@ -1,45 +1,294 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
-http://121527324209321276.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321276.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://121527324209321277.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321277.ts
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 SD
-http://121527324209321278.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321278.ts
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 FHD" tvg-logo="http://estoxy.net:80/images/3f862e3654b2d311a6251f0d0613b9c8.png" group-title="ES   MOVISTAR+",ES: LA 2 FHD
-http://121527324209321279.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321279.ts
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="http://estoxy.net:80/images/3f862e3654b2d311a6251f0d0613b9c8.png" group-title="ES   MOVISTAR+",ES: LA 2 HD
-http://121527324209321280.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321280.ts
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 SD" tvg-logo="http://estoxy.net:80/images/3f862e3654b2d311a6251f0d0613b9c8.png" group-title="ES   MOVISTAR+",ES: LA 2 SD
-http://121527324209321281.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321281.ts
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
-http://121527324209321105.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321105.ts
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
-http://121527324209321106.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321106.ts
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 SD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
-http://121527324209321107.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321107.ts
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO FHD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
-http://121527324209321429.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321429.ts
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO HD
-http://121527324209321430.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321430.ts
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO SD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO SD
-http://121527324209321431.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321431.ts
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://121527324209321196.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321196.ts
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://121527324209321197.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321197.ts
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO SD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO SD
-http://121527324209321198.ofkp911.xyz:80/live/fe1127558/6TMha6MGwJH8/321198.ts
-#EXTINF:-1,ES-Tve La 1
-http://av01020.com:2095/bigsat1160633/bigsat1130987/5385
-#EXTINF:-1,ES-Tve La 2
-http://av01020.com:2095/bigsat1160633/bigsat1130987/5386
-#EXTINF:-1,ES-Cuatro
-http://av01020.com:2095/bigsat1160633/bigsat1130987/2355
-#EXTINF:-1,ES-Fox
-http://av01020.com:2095/bigsat1160633/bigsat1130987/2350
-#EXTINF:-1,ES-Hollywood
-http://av01020.com:2095/bigsat1160633/bigsat1130987/2349
-#EXTINF:-1,ES-La_Sextra
-http://av01020.com:2095/bigsat1160633/bigsat1130987/2354
-#EXTINF:-1,ES-Antena3
-http://av01020.com:2095/bigsat1160633/bigsat1130987/2356
+#EXTINF:-1 tvg-id="" tvg-name="CO001:AXN" tvg-logo="" group-title="Colombia",CO001:AXN
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51319
+#EXTINF:-1 tvg-id="" tvg-name="CO002:CABLE NOTICIAS" tvg-logo="" group-title="Colombia",CO002:CABLE NOTICIAS
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51318
+#EXTINF:-1 tvg-id="" tvg-name="CO003:CANAL TRECE" tvg-logo="" group-title="Colombia",CO003:CANAL TRECE
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51317
+#EXTINF:-1 tvg-id="" tvg-name="CO004:CANAL UNO" tvg-logo="" group-title="Colombia",CO004:CANAL UNO
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51316
+#EXTINF:-1 tvg-id="" tvg-name="CO005:CARACOL" tvg-logo="" group-title="Colombia",CO005:CARACOL
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51315
+#EXTINF:-1 tvg-id="" tvg-name="CO006:CITY TV" tvg-logo="" group-title="Colombia",CO006:CITY TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51314
+#EXTINF:-1 tvg-id="" tvg-name="CO007:CLARO SPORT" tvg-logo="" group-title="Colombia",CO007:CLARO SPORT
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51313
+#EXTINF:-1 tvg-id="" tvg-name="CO008:EL TIEMPO" tvg-logo="" group-title="Colombia",CO008:EL TIEMPO
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51312
+#EXTINF:-1 tvg-id="" tvg-name="CO009:HOLA" tvg-logo="" group-title="Colombia",CO009:HOLA
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51311
+#EXTINF:-1 tvg-id="" tvg-name="CO010:NTN 24" tvg-logo="" group-title="Colombia",CO010:NTN 24
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51310
+#EXTINF:-1 tvg-id="" tvg-name="CO011:RCN MÁS" tvg-logo="" group-title="Colombia",CO011:RCN MÁS
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51309
+#EXTINF:-1 tvg-id="" tvg-name="CO012:RCN NOVELAS" tvg-logo="" group-title="Colombia",CO012:RCN NOVELAS
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51308
+#EXTINF:-1 tvg-id="" tvg-name="CO013:RCN XTRA" tvg-logo="" group-title="Colombia",CO013:RCN XTRA
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51307
+#EXTINF:-1 tvg-id="" tvg-name="CO014:SENAL COLOMBIA" tvg-logo="" group-title="Colombia",CO014:SENAL COLOMBIA
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51306
+#EXTINF:-1 tvg-id="" tvg-name="CO015:TELECAFE" tvg-logo="" group-title="Colombia",CO015:TELECAFE
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51305
+#EXTINF:-1 tvg-id="" tvg-name="CO016:TELECARIBE" tvg-logo="" group-title="Colombia",CO016:TELECARIBE
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51304
+#EXTINF:-1 tvg-id="" tvg-name="CO017:TELEPACIFICO" tvg-logo="" group-title="Colombia",CO017:TELEPACIFICO
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51303
+#EXTINF:-1 tvg-id="" tvg-name="CO018:TOONCAST" tvg-logo="" group-title="Colombia",CO018:TOONCAST
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51302
+#EXTINF:-1 tvg-id="" tvg-name="CO019:TV AGRO" tvg-logo="" group-title="Colombia",CO019:TV AGRO
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51301
+#EXTINF:-1 tvg-id="" tvg-name="CO020:WIN SPORTS" tvg-logo="" group-title="Colombia",CO020:WIN SPORTS
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51300
+#EXTINF:-1 tvg-id="" tvg-name="CO021:CANAL INSTITUCIONAL" tvg-logo="" group-title="Colombia",CO021:CANAL INSTITUCIONAL
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51299
+#EXTINF:-1 tvg-id="" tvg-name="CO022:COSMOVISION" tvg-logo="" group-title="Colombia",CO022:COSMOVISION
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51298
+#EXTINF:-1 tvg-id="" tvg-name="CO023:RCN" tvg-logo="" group-title="Colombia",CO023:RCN
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51297
+#EXTINF:-1 tvg-id="" tvg-name="------|Peru|------" tvg-logo="" group-title="Peru",------|Peru|------
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51351
+#EXTINF:-1 tvg-id="" tvg-name="PE001:AMERICA" tvg-logo="" group-title="Peru",PE001:AMERICA
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51350
+#EXTINF:-1 tvg-id="" tvg-name="PE002:ATV" tvg-logo="" group-title="Peru",PE002:ATV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51349
+#EXTINF:-1 tvg-id="" tvg-name="PE003:CANAL IPE" tvg-logo="" group-title="Peru",PE003:CANAL IPE
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51348
+#EXTINF:-1 tvg-id="" tvg-name="PE004:CANAL N" tvg-logo="" group-title="Peru",PE004:CANAL N
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51347
+#EXTINF:-1 tvg-id="" tvg-name="PE005:CAPITAL TV" tvg-logo="" group-title="Peru",PE005:CAPITAL TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51346
+#EXTINF:-1 tvg-id="" tvg-name="PE006:ESPN" tvg-logo="" group-title="Peru",PE006:ESPN
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51345
+#EXTINF:-1 tvg-id="" tvg-name="PE007:FRECUENCIA LATINA" tvg-logo="" group-title="Peru",PE007:FRECUENCIA LATINA
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51344
+#EXTINF:-1 tvg-id="" tvg-name="PE008:GOL PERU" tvg-logo="" group-title="Peru",PE008:GOL PERU
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51343
+#EXTINF:-1 tvg-id="" tvg-name="PE009:LATINA" tvg-logo="" group-title="Peru",PE009:LATINA
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51342
+#EXTINF:-1 tvg-id="" tvg-name="PE010:MOVISTAR PLUS" tvg-logo="" group-title="Peru",PE010:MOVISTAR PLUS
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51341
+#EXTINF:-1 tvg-id="" tvg-name="PE011:OVACION TV" tvg-logo="" group-title="Peru",PE011:OVACION TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51340
+#EXTINF:-1 tvg-id="" tvg-name="PE012:PERU CHANNEL" tvg-logo="" group-title="Peru",PE012:PERU CHANNEL
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51339
+#EXTINF:-1 tvg-id="" tvg-name="PE013:TV PERU NOTICIAS" tvg-logo="" group-title="Peru",PE013:TV PERU NOTICIAS
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51338
+#EXTINF:-1 tvg-id="" tvg-name="PE014:TV PERU" tvg-logo="" group-title="Peru",PE014:TV PERU
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51337
+#EXTINF:-1 tvg-id="" tvg-name="PE015:GOL PERU" tvg-logo="" group-title="Peru",PE015:GOL PERU
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51336
+#EXTINF:-1 tvg-id="" tvg-name="------|Mexico|------" tvg-logo="" group-title="Mexico",------|Mexico|------
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51458
+#EXTINF:-1 tvg-id="a.e.mx" tvg-name="MX001:A&E FHD" tvg-logo="" group-title="Mexico",MX001:A&E FHD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51457
+#EXTINF:-1 tvg-id="studio.universal.mx" tvg-name="MX002:Studio Universal" tvg-logo="" group-title="Mexico",MX002:Studio Universal
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51456
+#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX003:A3 Series HD" tvg-logo="" group-title="Mexico",MX003:A3 Series HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51455
+#EXTINF:-1 tvg-id="adrenalina.sports.network.mx" tvg-name="MX004:Adrenalina Sports Network" tvg-logo="" group-title="Mexico",MX004:Adrenalina Sports Network
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51454
+#EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="MX005:Animal Planet HD" tvg-logo="" group-title="Mexico",MX005:Animal Planet HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51453
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX006:AXN FHD" tvg-logo="" group-title="Mexico",MX006:AXN FHD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51452
+#EXTINF:-1 tvg-id="azteca.cinema.mx" tvg-name="MX007:Azteca Cinema HD" tvg-logo="" group-title="Mexico",MX007:Azteca Cinema HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51451
+#EXTINF:-1 tvg-id="azteca.click.mx" tvg-name="MX008:Azteca Click" tvg-logo="" group-title="Mexico",MX008:Azteca Click
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51450
+#EXTINF:-1 tvg-id="adn40.mx" tvg-name="MX009:ADN 40" tvg-logo="" group-title="Mexico",MX009:ADN 40
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51449
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX010:Azteca FHD" tvg-logo="" group-title="Mexico",MX010:Azteca FHD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51448
+#EXTINF:-1 tvg-id="azteca.7.mx" tvg-name="MX011:Azteca 7 FHD" tvg-logo="" group-title="Mexico",MX011:Azteca 7 FHD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51447
+#EXTINF:-1 tvg-id="aym.sports.mx" tvg-name="MX012:AYM Sports" tvg-logo="" group-title="Mexico",MX012:AYM Sports
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51446
+#EXTINF:-1 tvg-id="tv.azteca.mundo.mx" tvg-name="MX013:Azteca Mundo" tvg-logo="" group-title="Mexico",MX013:Azteca Mundo
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51445
+#EXTINF:-1 tvg-id="azteca.uno.mx" tvg-name="MX014:Azteca Uno" tvg-logo="" group-title="Mexico",MX014:Azteca Uno
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51444
+#EXTINF:-1 tvg-id="baby.mx" tvg-name="MX016:Baby TV" tvg-logo="" group-title="Mexico",MX016:Baby TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51442
+#EXTINF:-1 tvg-id="bbc.world.news.mx" tvg-name="MX017:BBC World News" tvg-logo="" group-title="Mexico",MX017:BBC World News
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51441
+#EXTINF:-1 tvg-id="el.financiero.bloomberg.mx" tvg-name="MX018:Bloomberg HD" tvg-logo="" group-title="Mexico",MX018:Bloomberg HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51440
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="MX019:Boomerang HD" tvg-logo="" group-title="Mexico",MX019:Boomerang HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51439
+#EXTINF:-1 tvg-id="cadena.h.mx" tvg-name="MX020:CANAL 8" tvg-logo="" group-title="Mexico",MX020:CANAL 8
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51438
+#EXTINF:-1 tvg-id="canal.4.mx" tvg-name="MX021:Canal 4 HD" tvg-logo="" group-title="Mexico",MX021:Canal 4 HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51437
+#EXTINF:-1 tvg-id="canal.5.mx" tvg-name="MX022:Canal 5 HD" tvg-logo="" group-title="Mexico",MX022:Canal 5 HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51436
+#EXTINF:-1 tvg-id="tbs.mexico.mx" tvg-name="MX023:TBS" tvg-logo="" group-title="Mexico",MX023:TBS
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51435
+#EXTINF:-1 tvg-id="tcm.mexico.mx" tvg-name="MX024:TCM" tvg-logo="" group-title="Mexico",MX024:TCM
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51434
+#EXTINF:-1 tvg-id="wobi.mx" tvg-name="MX025:Wobi" tvg-logo="" group-title="Mexico",MX025:Wobi
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51433
+#EXTINF:-1 tvg-id="bloomberg.mx" tvg-name="MX026:TVO D" tvg-logo="" group-title="Mexico",MX026:TVO D
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51432
+#EXTINF:-1 tvg-id="unicable.mx.mx" tvg-name="MX027:Unicable" tvg-logo="" group-title="Mexico",MX027:Unicable
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51431
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="MX028:Tooncast" tvg-logo="" group-title="Mexico",MX028:Tooncast
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51430
+#EXTINF:-1 tvg-id="teleritmo.mx" tvg-name="MX029:Teleritmo" tvg-logo="" group-title="Mexico",MX029:Teleritmo
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51429
+#EXTINF:-1 tvg-id="tiin.mx" tvg-name="MX030:Tiin" tvg-logo="" group-title="Mexico",MX030:Tiin
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51428
+#EXTINF:-1 tvg-id="tvc.mx" tvg-name="MX031:TVC" tvg-logo="" group-title="Mexico",MX031:TVC
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51427
+#EXTINF:-1 tvg-id="amc.mexico.mx" tvg-name="MX032:AMC" tvg-logo="" group-title="Mexico",MX032:AMC
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51426
+#EXTINF:-1 tvg-id="discovery.turbo.international.mx" tvg-name="MX033:NBC Golf" tvg-logo="" group-title="Mexico",MX033:NBC Golf
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51425
+#EXTINF:-1 tvg-id="excelsior.mx" tvg-name="MX034:NICKTOONS" tvg-logo="" group-title="Mexico",MX034:NICKTOONS
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51424
+#EXTINF:-1 tvg-id="las.estrellas.mx" tvg-name="MX035:Canal de las Estrellas HD" tvg-logo="" group-title="Mexico",MX035:Canal de las Estrellas HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51423
+#EXTINF:-1 tvg-id="nick.jr.mexico.mx" tvg-name="MX036:NICK JR" tvg-logo="" group-title="Mexico",MX036:NICK JR
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51422
+#EXTINF:-1 tvg-id="canal.once.mx" tvg-name="MX037:Canal Once HD" tvg-logo="" group-title="Mexico",MX037:Canal Once HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51421
+#EXTINF:-1 tvg-id="sundance.mx" tvg-name="MX038:Sundance TV" tvg-logo="" group-title="Mexico",MX038:Sundance TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51420
+#EXTINF:-1 tvg-id="cartoon.network.mx" tvg-name="MX039:Cartoon Network HD" tvg-logo="" group-title="Mexico",MX039:Cartoon Network HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51419
+#EXTINF:-1 tvg-id="cinecanal.mexico.mx" tvg-name="MX040:Cinecanal HD" tvg-logo="" group-title="Mexico",MX040:Cinecanal HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51418
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX041:Cinemax HD" tvg-logo="" group-title="Mexico",MX041:Cinemax HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51417
+#EXTINF:-1 tvg-id="cnn.en.espanol.mx" tvg-name="MX042:CNN en Español" tvg-logo="" group-title="Mexico",MX042:CNN en Español
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51416
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="MX043:CNN INT" tvg-logo="" group-title="Mexico",MX043:CNN INT
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51415
+#EXTINF:-1 tvg-id="comedy.central.mexico.mx" tvg-name="MX044:Comedy Central HD" tvg-logo="" group-title="Mexico",MX044:Comedy Central HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51414
+#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX045:De Pelicula" tvg-logo="" group-title="Mexico",MX045:De Pelicula
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51413
+#EXTINF:-1 tvg-id="de.pelicula.mx" tvg-name="MX046:De Pelicula Plus HD" tvg-logo="" group-title="Mexico",MX046:De Pelicula Plus HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51412
+#EXTINF:-1 tvg-id="discovery.mexico.mx" tvg-name="MX047:Discovery Channel HD" tvg-logo="" group-title="Mexico",MX047:Discovery Channel HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51411
+#EXTINF:-1 tvg-id="discovery.civilization.international.mx" tvg-name="MX048:Discovery Civilization" tvg-logo="" group-title="Mexico",MX048:Discovery Civilization
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51410
+#EXTINF:-1 tvg-id="discovery.home.health.mx" tvg-name="MX049:Discovery H&H" tvg-logo="" group-title="Mexico",MX049:Discovery H&H
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51409
+#EXTINF:-1 tvg-id="discovery.kids.mx.mx" tvg-name="MX050:Discovery Kids" tvg-logo="" group-title="Mexico",MX050:Discovery Kids
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51408
+#EXTINF:-1 tvg-id="discovery.science.international.mx" tvg-name="MX051:Discovery Science" tvg-logo="" group-title="Mexico",MX051:Discovery Science
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51407
+#EXTINF:-1 tvg-id="comedy.central.mx" tvg-name="MX052:Comedy Central FHD" tvg-logo="" group-title="Mexico",MX052:Comedy Central FHD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51406
+#EXTINF:-1 tvg-id="tlc.mx.mx" tvg-name="MX053:Discovery TLC HD" tvg-logo="" group-title="Mexico",MX053:Discovery TLC HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51405
+#EXTINF:-1 tvg-id="discovery.turbo.mx" tvg-name="MX054:Discovery Turbo HD" tvg-logo="" group-title="Mexico",MX054:Discovery Turbo HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51404
+#EXTINF:-1 tvg-id="discovery.world.mx" tvg-name="MX055:Discovery World HD" tvg-logo="" group-title="Mexico",MX055:Discovery World HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51403
+#EXTINF:-1 tvg-id="disney.mx" tvg-name="MX056:Disney Channel HD" tvg-logo="" group-title="Mexico",MX056:Disney Channel HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51402
+#EXTINF:-1 tvg-id="disney.junior.mx" tvg-name="MX057:Disney Jr" tvg-logo="" group-title="Mexico",MX057:Disney Jr
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51401
+#EXTINF:-1 tvg-id="distrito.comedia.mx" tvg-name="MX059:Distrito Comedia" tvg-logo="" group-title="Mexico",MX059:Distrito Comedia
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51399
+#EXTINF:-1 tvg-id="dw.english.mx" tvg-name="MX060:DW" tvg-logo="" group-title="Mexico",MX060:DW
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51398
+#EXTINF:-1 tvg-id="e.entertainment.mx" tvg-name="MX061:E! Entertainment HD" tvg-logo="" group-title="Mexico",MX061:E! Entertainment HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51397
+#EXTINF:-1 tvg-id="el.gourmet.mx" tvg-name="MX062:El Gourmet HD" tvg-logo="" group-title="Mexico",MX062:El Gourmet HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51396
+#EXTINF:-1 tvg-id="espn.mexico.mx" tvg-name="MX063:Espn HD" tvg-logo="" group-title="Mexico",MX063:Espn HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51395
+#EXTINF:-1 tvg-id="espn.2.mx" tvg-name="MX064:Espn 2 HD" tvg-logo="" group-title="Mexico",MX064:Espn 2 HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51394
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX065:Espn 3" tvg-logo="" group-title="Mexico",MX065:Espn 3
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51393
+#EXTINF:-1 tvg-id="espn.plus.mx" tvg-name="MX066:Espn Plus HD" tvg-logo="" group-title="Mexico",MX066:Espn Plus HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51392
+#EXTINF:-1 tvg-id="disney.mx" tvg-name="MX067:ESPN EXTRA" tvg-logo="" group-title="Mexico",MX067:ESPN EXTRA
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51391
+#EXTINF:-1 tvg-id="europa.europa.mx" tvg-name="MX068:Europa Europa" tvg-logo="" group-title="Mexico",MX068:Europa Europa
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51390
+#EXTINF:-1 tvg-id="food.network.mx" tvg-name="MX069:Food Network HD" tvg-logo="" group-title="Mexico",MX069:Food Network HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51389
+#EXTINF:-1 tvg-id="e.mx" tvg-name="MX070:UNIVERSAL CHANNEL" tvg-logo="" group-title="Mexico",MX070:UNIVERSAL CHANNEL
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51388
+#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="MX071:NICK 2" tvg-logo="" group-title="Mexico",MX071:NICK 2
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51387
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX072:INGENIO TV" tvg-logo="" group-title="Mexico",MX072:INGENIO TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51386
+#EXTINF:-1 tvg-id="star.action.mx" tvg-name="MX073:Star TVE" tvg-logo="" group-title="Mexico",MX073:Star TVE
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51385
+#EXTINF:-1 tvg-id="star.mexico.mx" tvg-name="MX074:Banda Max" tvg-logo="" group-title="Mexico",MX074:Banda Max
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51384
+#EXTINF:-1 tvg-id="espn.3.mx" tvg-name="MX075:Star Channel" tvg-logo="" group-title="Mexico",MX075:Star Channel
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51383
+#EXTINF:-1 tvg-id="star.classics.mx" tvg-name="MX076:SEC Network" tvg-logo="" group-title="Mexico",MX076:SEC Network
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51382
+#EXTINF:-1 tvg-id="star.life.mx" tvg-name="MX077:Isat" tvg-logo="" group-title="Mexico",MX077:Isat
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51381
+#EXTINF:-1 tvg-id="fx.movies.mx" tvg-name="MX078:XHGV-TDT" tvg-logo="" group-title="Mexico",MX078:XHGV-TDT
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51380
+#EXTINF:-1 tvg-id="fox.news.mx" tvg-name="MX079:Fox News HD" tvg-logo="" group-title="Mexico",MX079:Fox News HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51379
+#EXTINF:-1 tvg-id="tnt.series.mexico.mx" tvg-name="MX080:TNT Series" tvg-logo="" group-title="Mexico",MX080:TNT Series
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51378
+#EXTINF:-1 tvg-id="fox.sports.mexico.mx" tvg-name="MX081:Fox Sports 1 HD" tvg-logo="" group-title="Mexico",MX081:Fox Sports 1 HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51377
+#EXTINF:-1 tvg-id="fox.sports.2.mexico.mx" tvg-name="MX082:Fox Sports 2 HD" tvg-logo="" group-title="Mexico",MX082:Fox Sports 2 HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51376
+#EXTINF:-1 tvg-id="fox.sports.3.mexico.mx" tvg-name="MX083:Fox Sports 3 HD" tvg-logo="" group-title="Mexico",MX083:Fox Sports 3 HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51375
+#EXTINF:-1 tvg-id="mhz7.france.24.mx" tvg-name="MX084:Francia 24 HD" tvg-logo="" group-title="Mexico",MX084:Francia 24 HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51374
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX085:FX HD" tvg-logo="" group-title="Mexico",MX085:FX HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51373
+#EXTINF:-1 tvg-id="warner.mexico.mx" tvg-name="MX086:Warner" tvg-logo="" group-title="Mexico",MX086:Warner
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51372
+#EXTINF:-1 tvg-id="telehit.plus.mx" tvg-name="MX087:Telehit Plus" tvg-logo="" group-title="Mexico",MX087:Telehit Plus
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51371
+#EXTINF:-1 tvg-id="el.garage.south.mx" tvg-name="MX088:Garage TV" tvg-logo="" group-title="Mexico",MX088:Garage TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51370
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX089:TVC DEPORTES" tvg-logo="" group-title="Mexico",MX089:TVC DEPORTES
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51369
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX090:Golden" tvg-logo="" group-title="Mexico",MX090:Golden
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51368
+#EXTINF:-1 tvg-id="golden.edge.mx" tvg-name="MX091:Golden Edge" tvg-logo="" group-title="Mexico",MX091:Golden Edge
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51367
+#EXTINF:-1 tvg-id="golden.plus.mx" tvg-name="MX092:Golden Plus HD" tvg-logo="" group-title="Mexico",MX092:Golden Plus HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51366
+#EXTINF:-1 tvg-id="history.mx.mx" tvg-name="MX093:History HD" tvg-logo="" group-title="Mexico",MX093:History HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51365
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="MX094:VH1 CLASSIC" tvg-logo="" group-title="Mexico",MX094:VH1 CLASSIC
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51364
+#EXTINF:-1 tvg-id="hola.mx" tvg-name="MX095:Hola TV HD" tvg-logo="" group-title="Mexico",MX095:Hola TV HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51363
+#EXTINF:-1 tvg-id="imagen.mx" tvg-name="MX096:Imagen TV" tvg-logo="" group-title="Mexico",MX096:Imagen TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51362
+#EXTINF:-1 tvg-id="ingenio.mexico.mx" tvg-name="MX097:Nickelodeon" tvg-logo="" group-title="Mexico",MX097:Nickelodeon
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51361
+#EXTINF:-1 tvg-id="investigation.discovery.mx" tvg-name="MX098:Investigation Discovery HD" tvg-logo="" group-title="Mexico",MX098:Investigation Discovery HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51360
+#EXTINF:-1 tvg-id="itv.qa.mx" tvg-name="MX099:NTN 24" tvg-logo="" group-title="Mexico",MX099:NTN 24
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51359
+#EXTINF:-1 tvg-id="las.estrellas.mx" tvg-name="MX100:VH1" tvg-logo="" group-title="Mexico",MX100:VH1
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51358
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="MX101:Lifetime HD" tvg-logo="" group-title="Mexico",MX101:Lifetime HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51357
+#EXTINF:-1 tvg-id="mas.chic.mx" tvg-name="MX102:TNT" tvg-logo="" group-title="Mexico",MX102:TNT
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51356
+#EXTINF:-1 tvg-id="mexiquense.mx" tvg-name="MX103:Canal VIX lo mejor lega" tvg-logo="" group-title="Mexico",MX103:Canal VIX lo mejor lega
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51355
+#EXTINF:-1 tvg-id="milenio.mx" tvg-name="MX104:Milenio TV" tvg-logo="" group-title="Mexico",MX104:Milenio TV
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51354
+#EXTINF:-1 tvg-id="mtv.mexico.mx" tvg-name="MX105:MTV HD" tvg-logo="" group-title="Mexico",MX105:MTV HD
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51353
+#EXTINF:-1 tvg-id="mtv.hits.international.mx" tvg-name="MX106:MTV Hits" tvg-logo="" group-title="Mexico",MX106:MTV Hits
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/51352
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX107:Space" tvg-logo="" group-title="Mexico",MX107:Space
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/61027
+#EXTINF:-1 tvg-id="sony.mx" tvg-name="MX108:Sony Channel" tvg-logo="" group-title="Mexico",MX108:Sony Channel
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/61026
+#EXTINF:-1 tvg-id="" tvg-name="MX109:TDN" tvg-logo="" group-title="Mexico",MX109:TDN
+http://yesimes.oknirvana.club:8880/DyW2ggvqXH/zwcbLqyuzu/61025
