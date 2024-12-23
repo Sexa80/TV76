@@ -190,3 +190,33 @@ http://obsfullhd.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/3594.ts
 http://obsfullhd.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/3595.ts
 #EXTINF:-1,||ES|| ESPN HD
 http://obsfullhd.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/3596.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
+http://96962365724321276.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321276.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
+http://96962365724321277.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321277.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 SD
+http://96962365724321278.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321278.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsQptmR3opg0prud0nf0gsi.png" group-title="ES   MOVISTAR+",ES: LA 2 FHD
+http://96962365724321279.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321279.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="http://astrill.today:80/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumupSR-6uWjUQnrn7hIJc_tzMKUsw3cNBke6GxtwKiQerg.png" group-title="ES   MOVISTAR+",ES: LA 2 HD
+http://96962365724321280.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321280.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 SD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 SD
+http://96962365724321281.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321281.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUtorckwQ7wQrv7uZhlnWjNKpd0IaJ5YSXbd15S6ZVxdSA.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
+http://96962365724321105.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321105.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
+http://96962365724321106.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321106.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 SD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
+http://96962365724321107.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321107.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUsIz_kI0QrGQW7WbQy8w3XQ5hVWT8GQmrNjh_eKrhz5UQ.png" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
+http://96962365724321429.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321429.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO HD
+http://96962365724321430.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321430.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO SD" tvg-logo="https://miguia.tv/channels/big_161.png" group-title="ES   MOVISTAR+",ES: TELECINCO SD
+http://96962365724321431.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321431.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="http://astrill.today:80/images/oOylS2flwi79vchOHA8EO4FxE6JfBSTBovCPGTPRWUv6mmTC7Q3CXBBSCxYkmWUu3ICFsF-A4MAe54Zas_hdUQ.png" group-title="ES   MOVISTAR+",ES: CUATRO FHD
+http://96962365724321196.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321196.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO HD
+http://96962365724321197.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321197.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO SD" tvg-logo="https://miguia.tv/channels/big_65.png" group-title="ES   MOVISTAR+",ES: CUATRO SD
+http://96962365724321198.ofdgo121.xyz:80/live/ma240220R/GFYDH89234/321198.ts
