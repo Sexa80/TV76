@@ -1,3 +1,32 @@
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="||ES|| LA 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/03dc7679b4c21d3ac400524fd51dbd4a.png" group-title="SPAIN",||ES|| LA 1 FHD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1922.ts
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="||ES|| LA 1 HD" tvg-logo="http://obsfullhd.tv:25461/images/03dc7679b4c21d3ac400524fd51dbd4a.png" group-title="SPAIN",||ES|| LA 1 HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1509.ts
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="||ES|| LA 2 FHD" tvg-logo="http://obsfullhd.tv:25461/images/cfeae69ff1bf753651025538ec52f78c.png" group-title="SPAIN",||ES|| LA 2 FHD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/5340.ts
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="||ES|| LA 2 HD" tvg-logo="http://obsfullhd.tv:25461/images/cfeae69ff1bf753651025538ec52f78c.png" group-title="SPAIN",||ES|| LA 2 HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1510.ts
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="||ES|| ANTENA 3 FHD" tvg-logo="http://obsfullhd.tv:25461/images/fc95184bef0e8291172452dd531aeea3.png" group-title="SPAIN",||ES|| ANTENA 3 FHD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/3574.ts
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="||ES|| ANTENA 3 HD" tvg-logo="http://obsfullhd.tv:25461/images/fc95184bef0e8291172452dd531aeea3.png" group-title="SPAIN",||ES|| ANTENA 3 HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/3558.ts
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="||ES|| CUATRO  FHD" tvg-logo="http://obsfullhd.tv:25461/images/c7e06739450ba5bb7d1adbb6f6254c55.png" group-title="SPAIN",||ES|| CUATRO  FHD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1916.ts
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="||ES|| CUATRO HD" tvg-logo="http://obsfullhd.tv:25461/images/c7e06739450ba5bb7d1adbb6f6254c55.png" group-title="SPAIN",||ES|| CUATRO HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1513.ts
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="||ES|| LA SEXTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/langfr-300px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",||ES|| LA SEXTA HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1514.ts
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="||ES|| TELECINCO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png" group-title="SPAIN",||ES|| TELECINCO HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1865.ts
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| FDF HD" tvg-logo="http://obsfullhd.tv:25461/images/ee2105ada1dfece7bb7ab5c0fc68f2b7.png" group-title="SPAIN",||ES|| FDF HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1512.ts
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| COSMO FHD" tvg-logo="http://obsfullhd.tv:25461/images/920158d64369344dc7713d955eeb4139.png" group-title="SPAIN",||ES|| COSMO FHD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1915.ts
+#EXTINF:-1 tvg-id="Cosmopolitan.es" tvg-name="||ES|| COSMO HD" tvg-logo="http://obsfullhd.tv:25461/images/65227f2a7396f8cbbc6dbe6511dae55f.png" group-title="SPAIN",||ES|| COSMO HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1511.ts
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="||ES|| FOX HD" tvg-logo="http://obsfullhd.tv:25461/images/cd1b0a60f94802b4002f76b3f209bf98.png" group-title="SPAIN",||ES|| FOX HD
+http://goldiptvofficiel.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1515.ts
+
 #EXTINF:-1,||ES|| LA 1 FHD
 http://obsfullhd.tv:25461/live/nicolas.delahayes/JYwPwZV5ejz6/1922.ts
 #EXTINF:-1,||ES|| LA 1 HD
